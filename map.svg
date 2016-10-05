@@ -2,5 +2,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000">
 <rect width="2000" height="2000" fill="#303090" /> <!-->The sea.<-->
 <circle cx="1000" cy="1000" r="10" fill="#000000" stroke="#FFFFFF"/> <!-->Kestalis<-->
-<text x="100" y="100" fill="white" stroke="black" font-size="40">Kestalis</text>
+<text x="1000" y="1000" fill="white" stroke="black" font-size="40">Kestalis</text>
 </svg>
