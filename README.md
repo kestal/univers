@@ -2,6 +2,7 @@
 The goal it to create an imaginary universe/world!!!1!
 
 # crowdwritten
+If you want to add/modify something, just do a pull request and we'll merge it (assuming the change is accepted).
 
 # Rules
 * The world/style is **fantasy**.
@@ -10,6 +11,6 @@ The goal it to create an imaginary universe/world!!!1!
 
 # Formatting
 * Pages are written in markdown, thus must have extension `.md`
-* To link to another page, write `(displayed text)[/path/to/the/page.md]`
+* To link to another page, write `[displayed text](/path/to/the/page.md)`
 
 
