@@ -14,3 +14,6 @@ If you want to add/modify something, just do a pull request and we'll merge it (
 * To link to another page, write `[displayed text](/path/to/the/page.md)`
 
 
+# Similar projects
+* [Conglomera](http://conglomera.wikia.com/wiki/FAQs/New_User%27s_Guide)
+* [Orion's arm](http://www.orionsarm.com/)
