@@ -1,8 +1,10 @@
 # univers
-The goal it to create an imaginary universe/world!!!1!
+The goal it to create an imaginary universe/world!
 
 # crowdwritten
 If you want to add/modify something, just do a pull request and we'll merge it (assuming the change is accepted).
+Modifications are made under the CC-BY licence.
+Part of the interest of the thing is to see how well tools like version control, issues and collaborative FLOSS writing can apply to worldbuilding.
 
 # Rules
 * The world/style is **fantasy**.
