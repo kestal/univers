@@ -5,4 +5,6 @@ The cartel-mafia found its birth, during a period little state presence, when an
 
 During [King Jahob](/Characters/King Jahob.md)'s reign, many measures were taken in an effort to try and reduce the power of the cartel-mafia.
 This resulted to them getting notably weaker than before.
+At the death of [King Jahob](/Characters/King Jahob.md), the cartel-mafia took advantage of the event to commit a coup d'état, and get the power for themselves.
+
 
