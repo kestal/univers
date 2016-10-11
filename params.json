@@ -1,0 +1,6 @@
+{
+  "name": "Univers",
+  "tagline": "The goal it to create an imaginary world!",
+  "body": "# univers\r\nThe goal it to create an imaginary universe/world!\r\n\r\n# crowdwritten\r\nIf you want to add/modify something, just do a pull request and we'll merge it (assuming the change is accepted).\r\nModifications are made under the CC-BY licence.\r\nPart of the interest of the thing is to see how well tools like version control, issues and collaborative FLOSS writing can apply to worldbuilding.\r\n\r\n# Rules\r\n* The world/style is **fantasy**.\r\n* Year zero is the birth of some important, possibly world-changing character.\r\n* We are currently *some* (to be defined) year after their birth.\r\n\r\n# Formatting\r\n* Pages are written in markdown, thus must have extension `.md`\r\n* To link to another page, write `[displayed text](/path/to/the/page.md)`\r\n\r\n\r\n# Similar projects\r\n* [Conglomera](http://conglomera.wikia.com/wiki/FAQs/New_User%27s_Guide)\r\n* [Orion's arm](http://www.orionsarm.com/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
