@@ -8,5 +8,6 @@ During his reign, King Jahob concentrated his efforts not on the expension of th
 ## Religion
 Initially not a member of the [Church of the fallen one](/Organisations/Church Of The Fallen One.md), King Jahob converted after marrying [Alianne](/Characters/Queen Alianne.md). 
 From then on, his faith only got stronger, and the influence of the church on his rule too.
+By the end of his rule, one of his closest advisor was a high ranking member of the church.
 
 
