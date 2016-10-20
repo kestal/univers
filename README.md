@@ -22,4 +22,4 @@ Part of the interest of the thing is to see how well tools like version control,
 
 # The map
 Just to have something to visualize.
-![map](/blob/master/map.svg)
+![map](/map.svg)
