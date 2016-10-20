@@ -22,4 +22,4 @@ Part of the interest of the thing is to see how well tools like version control,
 
 # The map
 Just to have something to visualize.
-![map](https://raw.githubusercontent.com/kestal/univers/master/map.svg)
+![map](/blob/master/map.svg)
