@@ -5,10 +5,12 @@ They live in small tribes, with very little inter-tribe contact.
 
 ## Food
 Due to their adaptable metabolism, elves can consume a wide range of food.
-A common example being the /lembas/, a highly calorific bread whose exact recipe is yet unknown.
+A common example being the *lembas*, a highly calorific bread whose exact recipe is yet unknown.
 
-By [year 0](/Year/0), elf food is considered fashionable in [Kestalis](/Geography/City of Kestalis.md).
+
+By [year -100](/Year/-100.md), elf food is considered fashionable in [Kestalis](/Geography/City of Kestalis.md).
+Brought in Kestalis by traders, elf food was first consumed only by the nobility and the rich; it became a somewhat expensive but widely consumed street food.
 
 ## Magic
-Elves have a relatively strong magical footprint; they are influenced and influence by it, but not conciously.
+Elves have a relatively strong [magical](/Magic/Magic.md) footprint; they are influenced and influence by it, but not conciously.
 
