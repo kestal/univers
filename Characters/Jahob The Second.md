@@ -6,4 +6,9 @@ He managed to get [Littlefall]() back, but not the rest of his father's kingdom,
 He then settled in [Littlefall]() in the perspective of rallying people and strengthening his position to eventually conquer the rest of the kingdom.
 It is at that time that [Priest Salaman](), who had stayed in [Littlefall]() during and after the coup, reached to [Jahob]().
 
+The departure of [Jahob]() from [Kestalis](), against his siblings' counsels, signed his sundering from the rest of the family.
+At first, the relation between the newly compliant [Littlefall]() and [Kestalis]() were somewhat friendly, but it clearly degraded, even befor the deaths of [Jebus]() and [Marihe](), until it reached a point of cold hostility when their children inherited the reign of [Kestalis]().
+
+[Jahob the 2^n^d](), now isolated in [Kestalis]()
+
 
