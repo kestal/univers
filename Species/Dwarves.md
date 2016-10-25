@@ -39,3 +39,10 @@ It is said that some secret dwarf nation have underwater cities. But no one trul
 
 ## Culture
 
+## Relations with humans
+
+Due to the relative stability and uniformity of dwarf culture, many of their constructs have been used by humans. 
+Two important examples of those are justice and currency.
+
+
+
