@@ -37,6 +37,8 @@ Dwarves normally have good communication systems between cities.
 It is said that some secret dwarf nation have underwater cities. But no one truly knows.
 
 ## Culture
+### Food
+Indoor culture of mushrooms makes a great part of dwarf food production and consumption.
 
 ## Relations with humans
 
