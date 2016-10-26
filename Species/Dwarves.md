@@ -32,7 +32,6 @@ Dwarves normally don't open their cities for other species, but some do live in 
 ## Geography
 
 Dwarves live in cities and town, nearly always underground, but sometimes not.
-These cities can be found everywhere, they don't have preferencies.
 Sometimes great underground roads connect different dwarf places, but other times they just have to go outside.
 Dwarves normally have good communication systems between cities.
 It is said that some secret dwarf nation have underwater cities. But no one truly knows.
