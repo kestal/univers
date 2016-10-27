@@ -4,6 +4,6 @@ At the death of the king, and the parting of his family, Salaman stayed in [Litt
 
 During the ruling of the Mafia-Cartel, he managed to make them leave the [Church](Church of the fallen one) pretty free, modulo some some high amounts of money.
 
-At the return of [Jahob the Second](), Salaman managed to get close to the power, again, as a counseler.
+At the return of [Jahob the Second](/Characters/Jahob The Second.md), Salaman managed to get close to the power, again, as a counseler.
 
 
