@@ -13,6 +13,6 @@ Many of the traders and workers exhiled to lesser towns of the kingdom, and rich
 
 Seeing that, the leading members of the Cartel-Mafia decided to follow the money and divided the country so that each member would have a profitable part of the kingdom (at first, the center was [Littlefall](/Geography/City of Littlefall.md), and was conjointly ruled by all the members of the Cartel-Mafia; with the loss of its richness, some members began to think that they would do better to fully manage their part, which led to the partitionning).
 
-At [Jahob the Second]()'s arrival, [Littlefall](/Geography/City of Littlefall.md) was therefore easy to conquer with his armed forces, but the rest of the kingdom not so much. 
+At [Jahob the Second](/Characters/Jahob The Second.md)'s arrival, [Littlefall](/Geography/City of Littlefall.md) was therefore easy to conquer with his armed forces, but the rest of the kingdom not so much. 
 The Cartel-Mafia had only kept a small, underground influence on [Littlefall](/Geography/City of Littlefall.md), while still dominating much of the rest of the kingdom.
 
