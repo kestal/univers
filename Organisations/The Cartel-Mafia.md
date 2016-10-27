@@ -8,11 +8,11 @@ This resulted to them getting notably weaker than before.
 At the death of [King Jahob](/Characters/King Jahob.md), the cartel-mafia took advantage of the event and managed to commit a *coup d'état*, and get the power for themselves.
 
 This led the royal family to flee to the West, and allowed them to reign over the kingdom with no disturbance.
-Unfortunately for them, power didn't suit them much, and the [City of Littlefall]() lost much of its original richness under their reign; mainly because of their short-term management.
+Unfortunately for them, power didn't suit them much, and the [City of Littlefall](/Geography/City of Littlefall.md) lost much of its original richness under their reign; mainly because of their short-term management.
 Many of the traders and workers exhiled to lesser towns of the kingdom, and richness got spread more evenly than before.
 
-Seeing that, the leading members of the Cartel-Mafia decided to follow the money and divided the country so that each member would have a profitable part of the kingdom (at first, the center was [Littlefall](), and was conjointly ruled by all the members of the Cartel-Mafia; with the loss of its richness, some members began to think that they would do better to fully manage their part, which led to the partitionning).
+Seeing that, the leading members of the Cartel-Mafia decided to follow the money and divided the country so that each member would have a profitable part of the kingdom (at first, the center was [Littlefall](/Geography/City of Littlefall.md), and was conjointly ruled by all the members of the Cartel-Mafia; with the loss of its richness, some members began to think that they would do better to fully manage their part, which led to the partitionning).
 
-At [Jahob the Second]()'s arrival, [Littlefall]() was therefore easy to conquer with his armed forces, but the rest of the kingdom not so much. 
-The Cartel-Mafia had only kept a small, underground influence on [Littlefall](), while still dominating much of the rest of the kingdom.
+At [Jahob the Second]()'s arrival, [Littlefall](/Geography/City of Littlefall.md) was therefore easy to conquer with his armed forces, but the rest of the kingdom not so much. 
+The Cartel-Mafia had only kept a small, underground influence on [Littlefall](/Geography/City of Littlefall.md), while still dominating much of the rest of the kingdom.
 
