@@ -47,8 +47,41 @@ def levenshtein(a,b):
 # END OF TAKEN FROM www.hetland.org/coding/python/levenshtein.py
 ###############################################################################
 
+def sub_lev(s,t):
+    mem = {}
+    def sl(s,t):
+        if len(s) == 0:
+            return len(t)
+        if len(t) == 0:
+            return len(s)
+        
+        if (len(s), len(t)) in mem:
+            return mem[(len(s),len(t))]
 
+        cost = 0
+        if s[-1] != t[-1]:
+            cost = 1
+        # we don't add 1 to the cost in case a character is removed from t, this allows to search from s a substring of t, more or less
+        mem[(len(s),len(t))] = min(sl(s[:-1],t) + 1, sl(s,t[:-1]), sl(s[:-1],t[:-1]) + cost) 
+        return mem[(len(s), len(t))]
+    
+    return sl(s,t)
 
+def choose(guesses, name, link):
+    print("In the link  [{}]({}) , choose the following ".format(name, link))
+    ln = max(map(lambda x: len(x[1]), guesses)) + 1
+    for (i,(s, l)) in reversed(list(enumerate(guesses))):
+        print(("{}. {:" + str(ln) + "} with score {}").format(i, l, s)) 
+    
+    choice = input("Enter the index, or nothing to take the 0-th, or 'n' to keep asis : ")
+    if choice == "n":
+        best_guess = link
+    elif choice == "":
+        best_guess = guesses[0][1]
+    else:
+        best_guess = guesses[int(choice)][1]
+    print("Choosen : (", choice, ") ", best_guess) 
+    return best_guess
 
 def rel(path):
     """ If the string path starts with the string root, removes this part.
@@ -64,13 +97,13 @@ def first_double_substring(pages, name, link):
     guesses0 = []
     pages_there = []
     for p in pages:
-        if name.lower() in p.lower() and link.lower() in p.lower():
+        if sub_lev(name.lower(), p.lower()) < 3 and sub_lev(link.lower(), p.lower()) < 3:
             guesses0.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link)), rel(p)))
-            pages_there += p
+            pages_there.append(p)
 
     guesses1 = [] 
     for p in pages:
-        if name.lower() in p.lower() and not (p in pages_there):
+        if sub_lev(name.lower(), p.lower()) < 2 and not (p in pages_there):
             guesses1.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link)), rel(p)))
    
     guesses0 = sorted(guesses0, key = lambda x:x[0])
@@ -82,22 +115,13 @@ def fills(pages, text, match):
         Returns a tuple whose first component is the replaced part of text, and second component is the remaining part.
     """
     name, link = match.groups()
-    
+    best_guess = ""    
     if link in map(rel, pages):    
         best_guess = link
     else:
         guesses = first_double_substring(pages, name, link)
         if guesses:
-            print("In the link  [{}]({}) , choose the following ".format(name, link))
-            list(map(lambda x: print(x[0], " : " , x[1]), enumerate(guesses)))
-            choice = input("By entering the index, or nothing to take the 0-th, or 'n' to keep as is : ")
-            if choice == "n":
-                best_guess = link
-            elif choice == "":
-                best_guess = guesses[0][1]
-            else:
-                best_guess = guesses[int(choice)][1]
-            print("Choosen: ", best_guess)
+            best_guess = choose(guesses, name, link)
         else:
             best_guess = link
     return (text[:match.start(2)] + best_guess, text[match.end(2):])
