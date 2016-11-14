@@ -17,7 +17,7 @@ The original tribes and their leader, founder of the realm are  :
 
 ## Society
 
-TThe fragmented realm is a classical feodal society. At it's birth, the different parts of the realms,
+The fragmented realm is a classical feodal society. At it's birth, the different parts of the realms,
 represented by the different tribes and their leaders, had all a part of the power. But through long time 
 and political game, some tribes obtained more power, until the point where the heirs of warchief Dorion, leader
 of the stone forest realm, took the power and kept it.
