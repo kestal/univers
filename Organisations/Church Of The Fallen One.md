@@ -3,7 +3,7 @@ It worships a  powerful god with many different embodiments, through some kind o
 
 ## History
 
-The church of the fallen one is born when many different small tribes of the north west of continent I decided to ally to build a greater civilisation -which will later become the fragmented realm-, but had problems because of different religious beliefs. Then they organised a meeting between every responsible religious of each tribe to talk and try to decide which faith is the best. After only one day of meeting, they all had to agree that their religion where really similar. Their only real discordance was that their holy figure where not the same, and their religious history was different. 
+The church of the fallen one was born when many different small tribes of the north west of continent I decided to ally to build a greater civilisation -which will later become the fragmented realm-, but had problems because of different religious beliefs. Then they organised a meeting between every responsible religious of each tribe to talk and try to decide which faith is the best. After only one day of meeting, they all had to agree that their religion where really similar. Their only real discordance was that their holy figure where not the same, and their religious history was different. 
 
 From there they had to think of a way to ally their beliefs. They decided to write a text, creating a new faith, from the old ones, but stating that there is one god, that took and take and will take many different forms to represent himself. 
 

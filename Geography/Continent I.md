@@ -1,2 +1,2 @@
 Continent I is the main continent.
-Dwarves only live on Continent I.
+[Dwarves]() only live on Continent I.

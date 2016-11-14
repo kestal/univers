@@ -1,4 +1,4 @@
-Jebus, son of [King Jahob](/Characters/King Jahob.md) and brother to [Marihe](/Characters/Marihe.md) and [Jahob](/Characters/King Jahob.md), was one of the founders and ruler of [Kestalis](/Geography/City of Kestalis.md).
+Jebus, son of [King Jahob](/Characters/King Jahob.md) and brother to [Marihe](/Characters/Marihe.md) and [Jahob](/Characters/King Jahob.md), was one of the founders and rulers of [Kestalis](/Geography/City of Kestalis.md).
 
 Even though he was still young during the first years of [Kestalis](/Geography/City of Kestalis.md), he is considered a founder du to his strong implication in its construction, mainly the urban planning.
 
@@ -18,5 +18,5 @@ He then spent most of his time among the populace of [Kestalis](/Geography/City 
 From an early age, Jebus was interested in the [dwarf](/Species/Dwarves.md)'s culture and social organisation.
 Their relatively peacefulness and unity made him want the same for his people.
 After reaching [Continent II](/Geography/Continent II.md) and growing to rule [Kestalis](/Geography/City of Kestalis.md), he tried to get [dwarves](/Species/Dwarves.md) to cross the sea and establish a [dwarf]() community.
-Some ships were sent, but to no avail; the [dwarves](/Species/Dwarves.md) seeing being afraid of crossing the sea, being away from their peers and most of all, seeing no need to do that.
+Some ships were sent, but to no avail; the [dwarves](/Species/Dwarves.md) being afraid of crossing the sea and away from their peers and most of all, seeing no need to do that.
 
