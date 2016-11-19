@@ -1,6 +1,7 @@
 The dwarves are a humanoïd species livin on [Continent I](), mainly underground.
 
-Compared to humans, they are smaller, bulkier and stronger. 
+
+They are smaller and bulkier than humans.
 They have a practical and analytic way of thinking, which makes them known for their philosophs, engineers and architects.
 They are seen as friendly and outgoing.
 
@@ -51,8 +52,10 @@ Thus, in everyday life, dwarves will often mention the gods, but not necessarily
 ## Geography
 
 Dwarves live in cities and town, often underground, but sometimes not.
+They favor the vicinity of active and dorming volcanoes.
 Sometimes great underground roads connect different dwarf places, but other times they just have to go outside.
 Dwarves normally have good communication systems between cities.
+
 
 ## Wiseness
 
