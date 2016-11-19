@@ -1,8 +1,7 @@
-The dwarves are a humanoïd species living everywhere, mainly underground.
-There are many different kinds of dwarves, depending on where they live.
+The dwarves are a humanoïd species livin on [Continent I](), mainly underground.
 
 Compared to humans, they are smaller, bulkier and stronger. 
-It seems that they have really practical and analytic ways of thinking, which makes them known for their structuralist philosophy, their engineers and their architects.
+They have a practical and analytic way of thinking, which makes them known for their philosophs, engineers and architects.
 They are seen as friendly and outgoing.
 
 They live in realms that don't work with borders but with cultural similarities.
@@ -51,13 +50,16 @@ Thus, in everyday life, dwarves will often mention the gods, but not necessarily
 
 ## Geography
 
-Dwarves live in cities and town, nearly always underground, but sometimes not.
+Dwarves live in cities and town, often underground, but sometimes not.
 Sometimes great underground roads connect different dwarf places, but other times they just have to go outside.
 Dwarves normally have good communication systems between cities.
-It is said that some secret dwarf nation have underwater cities.
-But no one truly knows.
 
-## Culture
+## Wiseness
+
+The quality of being wise plays an important role in dwarve's thinking.
+Often associated with age, being wise is one of the highest compliment a dwarf can receive.
+Theologically, being wise means that the gods have gifted the individual with understanding of the world, and the knowing of the ideal direction for it.
+
 
 ### Food
 Indoor culture of mushrooms makes a great part of dwarf food production and consumption.
