@@ -39,14 +39,14 @@ They don't want to get involved in other folks politic, considering they have to
 ## Beliefs
 
 Religion occupies a large but paradoxical part of the dwarves beliefs and philosophy.
-In broad strokes, the dwarves believe in some sort of relatively distant pantheon on gods, who live in harmony in some sort of Eden and generally want the good of the world, although they don't interfere with it often.
-The dwarves believe, in an abstract sense, that they live by the god's will and that their current state of affairs is the right one.
-They will often mention the gods, call for their benediction, or propose that some thing is blessed, without necessarily believing that the gods really care for things so mundane.
+In broad strokes, the dwarves believe in some sort of relatively distant pantheon of gods, who live in harmony in the Nirvana and generally want the good of the world, although they don't interfere with it often.
+The dwarves believe, in an abstract sense, that they live by the god's will and that the current state of affair of the world, and its direction, is the right one.
+They will often mention the gods, call for their benediction, or propose that some object or action is blessed, without necessarily believing that the gods really care for things so mundane.
 
-In the same sense, the political organization used in each realm is considered to be a religious one as much as a political one, and the [Wise Councill]() is the top of their religious pyramid.
-Dwarves believe that the [Wise Council]() is as close to the god's will as can be achieved; not in the sense that its members particularly hear what the gods want, but more because, if they are this wise, it must be that the gods consider them right.
+In the same sense, the political organization in place in each realm is considered to be a religious one as much as a political one, and the [Wise Councill]() is the top of their religious pyramid.
+Dwarves believe that the [Wise Council]() is as close to the god's will as can be achieved; not in the sense that its members particularly hear what the gods want, but because if they are elected to such a highly influential position, it must be by the gods' will.
 
-Thus, in everyday life, dwarves will often mention the gods, but not necessarily accord them much more thought that this almost linguistic habit.
+Thus, in everyday life, dwarves will often mention the gods, but not necessarily accord them much more thought than this almost linguistic habit.
 
 ## Geography
 
