@@ -21,7 +21,7 @@ Part of the interest of the thing is to see how well tools like version control,
 # Similar projects
 * [Conglomera](http://conglomera.wikia.com/wiki/FAQs/New_User%27s_Guide)
 * [Orion's arm](http://www.orionsarm.com/)
-* [SCP project](http://www.scp-wiki.net/)
+* [SCP Wiki](http://www.scp-wiki.net/)
 
 # The map
 Just to have something to visualize.
