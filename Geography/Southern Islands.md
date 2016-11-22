@@ -32,19 +32,23 @@ The [elves]() are almost mythical beings for the islanders, and they are left al
 The pagan folklore considers them to be akin to the shepherds of the islands, choosen by the gods.
 
 The islanders believe to be the chosen people of the god (or rather, godly representation) of the sea.
-During the early years of humanity, the gods shared their rule over the humans, but the sea-god being an unstable one, he decided that sharing didn't suit his wants, and stole part of the humans and hid them on a remote location, the southern islands.
-This made Æther saddened, and that is why the islands are very windy.
+During the early years of humanity, the gods shared their rule over the humans, but the sea-god being an jealous one, he decided that sharing didn't suit his wants, and stole part of the humans and hid them on a remote location, the southern islands.
+This saddended Æther, and that is why the islands are very windy.
 In this folklore, the elves have been created by the gods with the goal of taking care of the earth, and thus, wherever earth is, there are elves; this plays a role, at least mythologically, in the fear that the humans have towards elves.
 
-In the islands's mythology, the world was first only Æther, and  Æther felt alone, and decided to share its existence and created the sea, but the sea cannot lie on nothing, and thus the earth was created to be with it, and share their existence with Æther. 
-This is how the sea was borne, and the lands that go with it.
+In the islands's mythology, the world was first only Æther, and  Æther felt alone, and decided to share its existence and created the sea.
+But the water cannot lie on nothing, and thus the earth was created for water to lie on, and its existence with the Sea and Æther. 
+This is how the sea was borne, and the land from which it stands.
 
-Life is the fourth main/central divinity of the southern island's pantheon.
-Life is what made the world more than simply the sum of its original three (now four) components, and what allowed diversity and change to appear and stay.
+Life is the fourth main divinity of the southern island's pantheon.
+Before Life, the world was still, and nothing changed.
+Life is what made the world more than simply the sum of its original three components, and what allowed diversity and change to appear and stay.
 
 Grass and the animals that live by it are the most beloved childs of Life, and due to their heavy sheep consumption, the islanders are very devoted to both.
 
+#### 
 
+The Islanders also believe that due to the Sea's instable personality, a time will come when it will become bored of them and, in a moment of rage, engulf them all in an apocalyptic tempest.
 
 #### Dwarves
 
