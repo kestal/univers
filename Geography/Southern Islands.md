@@ -46,7 +46,7 @@ Life is what made the world more than simply the sum of its original three compo
 
 Grass and the animals that live by it are the most beloved childs of Life, and due to their heavy sheep consumption, the islanders are very devoted to both.
 
-#### 
+#### Deluge
 
 The Islanders also believe that due to the Sea's instable personality, a time will come when it will become bored of them and, in a moment of rage, engulf them all in an apocalyptic tempest.
 
