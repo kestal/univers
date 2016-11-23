@@ -20,15 +20,15 @@ Due to their relative isolation from the other continents but closeness one from
 
 ## Religion
 
-Originally of strong pagan beliefs, the arrival of members of the [Church of the fallen One]() in the Southern Islands started a slow process of integration of this new religion.
+Originally of strong pagan beliefs, the arrival of members of the [Church of the fallen One](/Organisations/Church Of The Fallen One.md) in the Southern Islands started a slow process of integration of this new religion.
 The actual religion can now be characterised as a syncretization of the principles of the [Charch of the fallen One]() in the local belief system, varying in degree from island to island.
 
 
 ### Myths
 
 The Southern Islands originally had a small [elvish]() population, spread evenly on the islands.
-In the early years of the human occupation of the islands, the [elves]() slowly decreased in number until they finally vanished almost completely, only to remain on the southernmost one, on which the humans haven't established any settlement.
-The [elves]() are almost mythical beings for the islanders, and they are left alone, considered mainly with fear.
+In the early years of the human occupation of the islands, the [elves](/Species/Elves.md) slowly decreased in number until they finally vanished almost completely, only to remain on the southernmost one, on which the humans haven't established any settlement.
+The [elves](/Species/Elves.md) are almost mythical beings for the islanders, and they are left alone, considered mainly with fear.
 The pagan folklore considers them to be akin to the shepherds of the islands, choosen by the gods.
 
 The islanders believe to be the chosen people of the god (or rather, godly representation) of the sea.
@@ -52,7 +52,7 @@ The Islanders also believe that due to the Sea's instable personality, a time wi
 
 #### Dwarves
 
-The mythology of the southern islands doesn't include [dwarves](), because they are not a local species.
+The mythology of the southern islands doesn't include [dwarves](/Species/Dwarves.md), because they are not a local species.
 
 
 

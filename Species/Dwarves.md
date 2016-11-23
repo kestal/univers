@@ -1,4 +1,4 @@
-The dwarves are a humanoïd species livin on [Continent I](), mainly underground.
+The dwarves are a humanoïd species livin on [Continent I](/Geography/Continent I.md), mainly underground.
 
 
 They are smaller and bulkier than humans.
