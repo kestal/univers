@@ -1,7 +1,7 @@
 # univers
 The goal it to create an imaginary universe/world!
 
-# Start at [Kestalis](/Geography/City of Kestalis.md) to see what has been done so far
+# Start at [Coup of Littlefall](/Events/Coup of Littlefall.md) to see what has been done so far
 
 # crowdwritten
 If you want to add/modify something, just do a pull request and we'll merge it (assuming the change is accepted).
