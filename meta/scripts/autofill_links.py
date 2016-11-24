@@ -68,7 +68,9 @@ def sub_lev(s,t):
     return sl(s,t)
 
 def choose(guesses, name, link):
-    print("In the link  [{}]({}) , choose the following ".format(name, link))
+    
+    print("In the link  \033[1m[{}]({}) \033[0m, choose the following ".format(name, link))
+    
     ln = max(map(lambda x: len(x[1]), guesses)) + 1
     for (i,(s, l)) in reversed(list(enumerate(guesses))):
         print(("{}. {:" + str(ln) + "} with score {}").format(i, l, s)) 
@@ -98,13 +100,13 @@ def first_double_substring(pages, name, link):
     pages_there = []
     for p in pages:
         if sub_lev(name.lower(), p.lower()) < 3 and sub_lev(link.lower(), p.lower()) < 3:
-            guesses0.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link)), rel(p)))
+            guesses0.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link), levenshtein(p,link + name)), rel(p)))
             pages_there.append(p)
 
     guesses1 = [] 
     for p in pages:
         if sub_lev(name.lower(), p.lower()) < 2 and not (p in pages_there):
-            guesses1.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link)), rel(p)))
+            guesses1.append((min(levenshtein(p,name), levenshtein(p,link), levenshtein(p,name + link), levenshtein(p,link + name)), rel(p)))
    
     guesses0 = sorted(guesses0, key = lambda x:x[0])
     guesses1 = sorted(guesses1, key = lambda x:x[0])
@@ -135,7 +137,8 @@ ALL_PAGES = list(filter(lambda p: all(x not in p for x in [".git", "README.md", 
 
 
 for page in ALL_PAGES:
-    with open(page, 'r') as f:
+    print("###################################### reading page " + page + "#########################################")
+    with open(page, encoding='utf-8', mode='r') as f:
         before = ""
         after = f.read()       
 
@@ -147,6 +150,6 @@ for page in ALL_PAGES:
             m = LINK_REGEX.search(after)
     
         f.close()
-        with open(page, 'w') as f:
+        with open(page, encoding='utf-8', mode='w') as f:
             f.write(before + after)
 

@@ -1,4 +1,4 @@
-[Jahob](/Characters/King Jahob.md), king of [Forth](/Geography/Forth (kingdom).md) died abruptly, but of natural causes, on the 45th day of spring.
+[Jahob](/Characters/King Jahob.md), king of [Forth](/Geography/Forth (kingdom).md) died of natural causes, on the 45th day of spring.
 According to the law of the kingdom, his spouse, [Alianne](/Characters/Queen Alianne.md) was to inherit power.
 After announcing his death to the people of [Littlefall](/Geography/City of Littlefall.md), [Alianne](/Characters/Queen Alianne.md) decided for 8 days of mourning, and retired to her quarters.
 [Salaman](/Characters/Priest Salaman.md), high priest of the [Church of the Fallen One](/Organisations/Church Of The Fallen One.md), who advised the queen for this extended mourning, tipped the [Mafia-Cartel](Organi) beforehand.
@@ -10,5 +10,12 @@ The royal family first decided to flee to the portuary city of [Tabadum](/Geogra
 Upon reaching it, they noticed that the attack of the [Mafia-Cartel]() was actually much more profound than first understood, and that even in [Tabadum](/Geography/City of Tabadum.md), their allies were present.
 
 This led to them trying to flee further away.
-By chance, a small flotilla led by prince [Testur](/Characters/Testur.md) and here for commercial reasons accepted to take them in and to sail to the west, until they reached [Continent II](/Geography/Continent II.md).
+
+At this time, prince [Testur](/Characters/Testur.md), leading a flotilla of a dozen ships, was approvisionning in [Tabadum](/Geography/City of Tabadum.md).
+This stop was supposed to be the last one before sailing west to explore [Continent II](/Geography/Continent II.md), which was only known by hear-say in [Continent I](/Geography/Continent I.md) and the [Southern Islands](/Geography/Southern Islands.md).
+
+Fortunately for the royal family, prince [Testur](/Characters/Testur.md) accepted to take them aboard his ships and to hasten his departure.
+
+## Preparation of the Coup
+During his reign, King [Jahob](/Characters/King Jahob.md) took many measures to lower the influence of the [Cartel-Mafia](/Organisations/The Cartel-Mafia.md) in his kingdom.
 
