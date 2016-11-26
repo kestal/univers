@@ -17,5 +17,11 @@ This stop was supposed to be the last one before sailing west to explore [Contin
 Fortunately for the royal family, prince [Testur](/Characters/Testur.md) accepted to take them aboard his ships and to hasten his departure.
 
 ## Preparation of the Coup
-During his reign, King [Jahob](/Characters/King Jahob.md) took many measures to lower the influence of the [Cartel-Mafia](/Organisations/The Cartel-Mafia.md) in his kingdom.
+
+During the latter part of his reign, King [Jahob](/Characters/King Jahob.md) took many measures to lower the influence of the [Cartel-Mafia](/Organisations/The Cartel-Mafia.md) in his kingdom, who had grown to dangerous heights during his predecessor's reign and the beginning of his.
+Moneylending was forbidden in [Littlefall](/Geography/City of Littlefall.md), the number of the city guard increased and bounties given on members of the organization.
+This strategy worked, but not as well as needed.
+The [Cartel-Mafia](/Organisations/The Cartel-Mafia.md) mainly went subsurface in [Littlefall](/Geography/City of Littlefall.md) and started spreading their influence more evenly in the kingdom.
+After learning of his declining health, surely by [Priest Salaman](/Characters/Priest Salaman.md), they started preparing for getting their power back.
+They knew that as long as [Jahob](/Characters/King Jahob.md) was in power, they couldn't do anything, and therefore planned for a coup during the necessarily fragile transition that would take place at his death.
 
