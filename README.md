@@ -1,4 +1,6 @@
 # univers
+
+[![Join the chat at https://gitter.im/kestal-univers/Lobby](https://badges.gitter.im/kestal-univers/Lobby.svg)](https://gitter.im/kestal-univers/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The goal it to create an imaginary universe/world!
 
 # Start at [Coup of Littlefall](/Events/Coup of Littlefall.md) to see what has been done so far
