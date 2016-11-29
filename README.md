@@ -9,7 +9,7 @@ Modifications are made under the CC-BY licence.
 Part of the interest of the thing is to see how well tools like version control, issues and collaborative FLOSS writing can apply to worldbuilding.
 
 # Rules
-* The world/style is **fantasy**, more precisely Magical Post Realist Fantasy (MPRF)[^1].
+* The world/style is **fantasy**, more precisely Magical Post Realist Fantasy (MPRF).
 * Year zero is the birth of some important, possibly world-changing character.
 * We are currently *some* (to be defined) year after their birth.
 
@@ -26,5 +26,3 @@ Part of the interest of the thing is to see how well tools like version control,
 # The map
 Just to have something to visualize.
 ![map](/map.svg)
-
-[^1]: It's a new genre…
