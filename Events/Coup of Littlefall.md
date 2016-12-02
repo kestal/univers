@@ -15,6 +15,7 @@ At this time, prince [Testur](/Characters/Testur.md), leading a flotilla of a do
 
 Fortunately for the royal family, prince [Testur](/Characters/Testur.md) accepted to take them aboard his ships and to hasten his departure.
 The family reached his ships in the cover of the night, taking with them only a handful of their servitors.
+After many weeks of sailing west, they finally reached [Continent II]().
 
 ## Preparation of the Coup
 
@@ -25,6 +26,10 @@ The [Cartel-Mafia](/Organisations/The Cartel-Mafia.md) mainly went subsurface in
 After learning of his declining health by [Priest Salaman](/Characters/Priest Salaman.md), they started preparing for getting their power back.
 They knew that as long as [Jahob](/Characters/King Jahob.md) was in power, they couldn't do anything, and therefore planned for a coup during the necessarily fragile transition that would take place at his death.
 In the months before his death, they started by first testing the waters on which influential members of the government could be turned to their cause, and how.
-They set then waited for his death.
- 
+They then placed agents of theirs in many important cities and places in [Forth](), and mainly in [Littlefall](), and waited for the death of the king.
+
+## Consequences
+
+After taking the power, the [Mafia-Cartel]() put one of their member at the head of the state, for official purposes at least.
+They announced that he was the chosen heir of the throne, as decided by the king.
 
