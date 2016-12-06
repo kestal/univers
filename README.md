@@ -23,6 +23,7 @@ Part of the interest of the thing is to see how well tools like version control,
 * [Orion's arm](http://www.orionsarm.com/)
 * [SCP Wiki](http://www.scp-wiki.net/)
 * [Dawn of Victory](http://www.dawnofvictory2289.com/#dawn-of-victory)
+* [Eternity RPC](http://board.eternityrpc.com/index.php)
 
 # The map
 Just to have something to visualize.
