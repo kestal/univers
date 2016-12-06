@@ -6,7 +6,11 @@ The goal it to create an imaginary universe/world!
 # crowdwritten
 If you want to add/modify something, just do a pull request and we'll merge it (assuming the change is accepted).
 Modifications are made under the CC-BY licence.
-Part of the interest of the thing is to see how well tools like version control, issues and collaborative FLOSS writing can apply to worldbuilding.
+Part of the interest of the thing is to see how well tools like version control, issues and collaborative FLOSS writing can apply
+to worldbuilding.
+
+Please have a look at the issues, where most of our discussions take place, and ask questions or give your opinion!
+Also, **forks are encouraged**. It would be complicated to have anybody able to change our repo directly; forks are a nice way to let people work as they please, without the troubles of a single big write-access-for-everyone repo.
 
 # Rules
 * The world/style is **fantasy**, more precisely Magical Post Realist Fantasy (MPRF).
