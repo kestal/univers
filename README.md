@@ -31,4 +31,4 @@ Also, **forks are encouraged**. It would be complicated to have anybody able to 
 
 # The map
 Just to have something to visualize. It's badly done and useless..
-![map](/map.svg)
+![map](/map.svg?raw=true)
