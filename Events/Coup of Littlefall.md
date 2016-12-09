@@ -30,6 +30,7 @@ They then placed agents of theirs in many important cities and places in [Forth]
 
 ## Consequences
 
-After taking the power, the [Mafia-Cartel]() put one of their member at the head of the state, for official purposes at least.
-They announced that he was the chosen heir of the throne, as decided by the king.
+After taking the power, the [Mafia-Cartel]() put one of their member, [Jhop](/Characters/Jhob.md) (nephew to the queen), as official head of state; they announced that he was the chosen heir of the now deceased king.
+This was the start of a stronger and harder rule for [Forth](kingdom).
+
 
