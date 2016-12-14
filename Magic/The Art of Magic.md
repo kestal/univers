@@ -13,9 +13,6 @@ Performing magic is exhausting for the caster, as draining energy from the praet
 
 Casting does not require any gesture, lyrics or ritual.
 
-**The fireball example**
-With this approach, you would need some fuel, lets take a little wood stick, then use the firebending (or lightbending) to set it on fire, and then the telekinesis to throw it.
-
 ## The sources
 Any source can be either generic or specific. Here's a non-exhaustive list of examples:
 - Magical places: empty.
