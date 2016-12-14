@@ -1,4 +1,4 @@
-# The art of magic
+# Art of magic
 
 **The learning**
 An uninitiated who don't open his spirit can't feel the praeter, even when he's near a place of power.
