@@ -5,13 +5,27 @@ The praeter, is a part, a dimension of the universe, whose mechanics and relatio
 
 Casters can either enter the praeter directly or use sources of power displayed around the world.
 
+People aren't born with some gift to perform magic. Although anyone could enter it with the help of a source of power, the contact with the praeter is very exhausting and will basically faint any uninitiated.
+
 ## The direct way
 Accessing the praeter directly requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
 
 Adepts of this methode are extremely powerful and it is said that some of them could even use the praeter to keep their spirit immortal and even come back in the real world as a newborn. They are sometimes perceived as divine or even as gods by certain folks.
 
 ## Sources of power
-Casters can also, and more commonly, use sources of power that act as strong bonds to the praeter dimension.
+The most common way to access the praeter is through sources of power. These act as strong bonds to the praeter dimension and allow the casters to enter it easier.
+
+The only presence of great sources of power can weaken the people nearby and direct contact with a great source of power will basically faint any uninitiated.
+
+Sources of power are very heterogeneous in size and power. There are inert sources of power like magical place and gemstones, and there are living sources of power like magical beasts and the elves.
+
+The magical beast are standing between the two dimensions, while the elves are a very special species.
+
+**Using sources**: living sources of power function differently from the inert ones.
+- Inert ones: fade away as they are used and may regenerate over time.
+- Living ones: gets exhausted when used and need time to recover, exactly like a caster. But if pushed to much, they can also faint and even die. However they can defend themselves from the caster in a sort of mental duel. This is the reason why the elves practice cannibalism when their feral instinct awakes. It is like a lust of magical power.
+
+**Way of Wizard**: people aren't born with some gift to perform magic. Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the warp, nothing like book reading. Once the initiated reach a certain level, he can enter the warp properly. Then he must remain in these low bonds sources of power to progressively reach the level where he can use the warp to cast spells. The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
 
 ## The art of magic
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
