@@ -6,10 +6,11 @@ _It basically functions like the Warhammer's warp.
 
 ## The direct way
 Casters can enter the praeter directly but it requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
+
 These people are extremely powerful and it is said that some of them could even use the warp to keep their spirit immortal and even come back in the real world as a newborn. They could be perceived as divine or even as gods by certain folks.
 
 ## Sources of power
-Casters can also, and more commonly, use sources of power that act as strong bounds to the praeter dimension.
+Casters can also, and more commonly, use sources of power that act as strong bonds to the praeter dimension.
 
 ## Limits
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
