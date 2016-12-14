@@ -26,12 +26,16 @@ Living sources gets exhausted when used and need time to recover, exactly like t
 The magical beast are standing between the two dimensions, while the elves are more uniques.
 
 ## The art of magic
+An uninitiated who don't open his spirit can't feel the praeter, even when he's near a place of power.
+
+Therefor, becoming a wizard is a long journey of pilgrimage to places of power to learn to open his spirit to feel and get used to the praeter. It's nothing like book reading.
+
+Once the initiated reach a certain level, he can enter the praeter properly. Then he must remain in these low bonds sources of power to progressively reach the level where he can use the praeter to cast spells.
+
+The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
+
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
 
 Performing magic is exhausting for the caster, as draining energy from the praeter requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
 
-Casting does not require any gesture, lyrics or ritual, but it needs almost always a source of power. 
-
-Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the praeter, nothing like book reading. Once the initiated reach a certain level, he can open his spirit and enter the praeter properly.
-
-Then he must remain in these low bonds sources of power to progressively reach the level where he can use the praeter to cast spells. The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
+Casting does not require any gesture, lyrics or ritual.
