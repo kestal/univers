@@ -48,4 +48,5 @@ This type follows the basic rules of the state of matters, so that some material
 
 ## Preferential sources
 There are two types of sources of power: generic or specific. Generic sources allow the caster to perform any kind of magic, while specific sources allow the caster to perform only in a specific school. The specifics sources of power can be seen as bridges that only open certain doors to the praeter.
+
 Eventually, the caster can perform any kind of magic when using no source of power. It's exactly like if he used a generic source of power.
