@@ -8,6 +8,8 @@ Instead, it uses simplified versions of the physical properties of the world to 
 
 It does not have the goal or the pretention to master all the physical properties, but it is based on this idea. In short, it is a mix of the real physical laws and the immaginary dimension praeter that allows to shape them.
 
+It makes the magic quite complicated. But I think it forces the writers to use magic as a complex and interesting tool, and not as an easy way of providing a show and/or as an easy way out of problems.
+
 ## The common schools
 
 ### Telepathy
