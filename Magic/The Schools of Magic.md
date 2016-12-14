@@ -6,7 +6,7 @@ Magic in Kestal is the way of shaping to world. It follows first the law of cons
 
 Instead, it uses simplified versions of the physical properties of the world to shape it. However, the praeter brings also a abstract concept that allows telepathy, which does not rely on any physical property.
 
-In short, it is a mix of the real physical laws and the immaginary dimension praeter that allows to shape them.
+It does not have the goal or the pretention to master all the physical properties, but it is based on this idea. In short, it is a mix of the real physical laws and the immaginary dimension praeter that allows to shape them.
 
 ## The common schools
 
