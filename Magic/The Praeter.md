@@ -3,10 +3,12 @@
 ## The praeter
 The praeter, is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood. The access to it allows to perform magic.
 
-## The direct way
-Casters can enter the praeter directly but it requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
+Casters can either enter the praeter directly or use sources of power displayed around the world.
 
-These people are extremely powerful and it is said that some of them could even use the warp to keep their spirit immortal and even come back in the real world as a newborn. They could be perceived as divine or even as gods by certain folks.
+## The direct way
+Accessing the praeter directly requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
+
+Adepts of this methode are extremely powerful and it is said that some of them could even use the praeter to keep their spirit immortal and even come back in the real world as a newborn. They are sometimes perceived as divine or even as gods by certain folks.
 
 ## Sources of power
 Casters can also, and more commonly, use sources of power that act as strong bonds to the praeter dimension.
