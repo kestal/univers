@@ -1,7 +1,7 @@
 # Magic in Kestal: the praeter
 
 ## The praeter
-Magic, also called praeter, is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood.
+The praeter, is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood. The access to it allows to perform magic.
 
 ## The direct way
 Casters can enter the praeter directly but it requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
