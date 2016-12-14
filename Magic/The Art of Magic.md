@@ -25,4 +25,4 @@ The rosewood is a very hard and dark reddish brown type of wood. It is hard to w
 Bindwood is used to create all kind of objects specifically bound to one or many small sources of power. This allows the casters to perform magic easier instead of directly holding the the source in their hand.
 
 ## Magical fights
-There is an ability that reflects the strengh of caracter and allows to resist any magic projected against your own. So even uninitiated to magic can defend themselves against direct magical aggression.
+There is an ability that reflects the strengh of caracter and allows to resist any magic performed against your own. So even uninitiated to magic can defend themselves against direct magical aggression.
