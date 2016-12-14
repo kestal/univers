@@ -1,8 +1,7 @@
 # Magic in Kestal: the praeter
 
 ## The praeter
-The praeter is a dimension where casters drain power to perform magic. The casters are simply called wizards, sorcerers or warlock.
-_It basically functions like the Warhammer's warp.
+Magic, also called praeter, is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood.
 
 ## The direct way
 Casters can enter the praeter directly but it requires years and years of training and a lot of energy. Thereby practically nobody can perform magic this way.
