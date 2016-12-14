@@ -13,9 +13,9 @@ Adepts of this methode are extremely powerful and it is said that some of them c
 ## Sources of power
 Casters can also, and more commonly, use sources of power that act as strong bonds to the praeter dimension.
 
-## Limits
+## The art of magic
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
 
-## Casting
 Performing magic is exhausting for the caster, as draining energy from the warp requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
+
 Casting does not require any gesture, lyrics or ritual, but it needs almost always a source of power. A proper training allows to perform longer and stronger spells.
