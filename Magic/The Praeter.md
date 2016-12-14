@@ -30,6 +30,8 @@ The strength and the length of a spell are limited by both the caster and, if us
 
 Performing magic is exhausting for the caster, as draining energy from the warp requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
 
-Casting does not require any gesture, lyrics or ritual, but it needs almost always a source of power. A proper training allows to perform longer and stronger spells.
+Casting does not require any gesture, lyrics or ritual, but it needs almost always a source of power. 
 
-**Way of Wizard**: people aren't born with some gift to perform magic. Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the warp, nothing like book reading. Once the initiated reach a certain level, he can enter the warp properly. Then he must remain in these low bonds sources of power to progressively reach the level where he can use the warp to cast spells. The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
+Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the warp, nothing like book reading. Once the initiated reach a certain level, he can open his spirit and enter the praeter properly.
+
+Then he must remain in these low bonds sources of power to progressively reach the level where he can use the praeter to cast spells. The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
