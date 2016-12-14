@@ -14,7 +14,6 @@ Casters can also, and more commonly, use sources of power that act as strong bon
 
 ## Limits
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
-_I think limiting magic could make it rarest and therefore more intense._
 
 ## Casting
 Performing magic is exhausting for the caster, as draining energy from the warp requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
