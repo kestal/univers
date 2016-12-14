@@ -28,10 +28,10 @@ The magical beast are standing between the two dimensions, while the elves are m
 ## The art of magic
 The strength and the length of a spell are limited by both the caster and, if used, the source of power.
 
-Performing magic is exhausting for the caster, as draining energy from the warp requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
+Performing magic is exhausting for the caster, as draining energy from the praeter requires a great concentration. Although it can't injure the caster physically, it still can faint him in extreme cases.
 
 Casting does not require any gesture, lyrics or ritual, but it needs almost always a source of power. 
 
-Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the warp, nothing like book reading. Once the initiated reach a certain level, he can open his spirit and enter the praeter properly.
+Becoming a wizard is a long journey of pilgrimage to places of power to feel and get used to the praeter, nothing like book reading. Once the initiated reach a certain level, he can open his spirit and enter the praeter properly.
 
 Then he must remain in these low bonds sources of power to progressively reach the level where he can use the praeter to cast spells. The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
