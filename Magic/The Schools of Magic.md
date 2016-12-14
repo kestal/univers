@@ -1,6 +1,6 @@
 # Schools of magic
 
-The great variety of spells that can be casted can be divided schools of magic. The following are the most commons.
+The great variety of spells that can be casted can be divided schools of magic.
 
 ## The common schools
 
