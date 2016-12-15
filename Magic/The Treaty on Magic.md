@@ -1,5 +1,5 @@
 # The Treaty on Magic
-The _Treaty on Magic_ is a series of books about magic divided in multiple volumes. There is no unique writer but the first volume was mainly achieved by the wizard Brynjar.
+The _Treaty on Magic_ is a series of books about magic divided in multiple volumes. There is no unique writer but the first volume was mainly achieved by the wizard Brynjar. If he was a wizard, he was first a scholar, collecting as much informations he could about magic and the way people see it in the world.
 
 ## Excerpts of Volume I
 > This is a hard exercice to feel the praeter in general. Even in places of power where the task is eased, you will have to be focused and trained to be able to feel it. We use to call the people who can't or never felt the praeter _uninitiated_. It is highly forbidden to give a great source of power like a gemstone to an uninitiated ; he may faint or even die. [...]
