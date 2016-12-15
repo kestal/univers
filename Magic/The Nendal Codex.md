@@ -1,5 +1,5 @@
-#The Codex of Nendal
-The _Codex of Nendal_ is a compilation of texts concerning the people of Nendal. Some of these texts are written by foreigners that don't actually belong to the Nendal's folk. It is maily about their history, religion, vision of the magic and political system.
+#The Nendal Codex
+The _Nendal Codex_ is a compilation of texts concerning the people of Nendal. Some of these texts are written by foreigners that don't actually belong to the Nendal's folk. It is maily about their history, religion, vision of the magic and political system.
 
 _People of Nendal is a temporary name. They could look like Azetec tribe living in jungles or like norse tribes living in some cold and mountainous places. In any cases, they wouldn't be the most developped people in the time where Arkas rises._
 
