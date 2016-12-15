@@ -12,3 +12,5 @@ The _Treaty on Magic_ is a series of books about magic divided in multiple volum
 
 > There is a small group of people we call _Archmages_. They have accumulated so much experience in the art of magic that they can enter the praeter in every single places of the world, without using any source of power.
 I think there is no defined way to become an archmage. For example one went to hermitage while another practiced with gemstones. Anyway the work to achieve this level of mastery is huge and is not made for everyone. Maybe the archmages are also simply more talented than others for magic.
+
+There is no school to learn magic, and there are no many wizards too. I think those seeking for power don't want to spend years patiently learning the ways of the praeter, as they simply can learn quickly how to use a weapon instead. Becoming a wizard is also a lonely path for the most, and it requires yet a great discipline.
