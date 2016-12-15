@@ -16,7 +16,7 @@ Casting does not require any gesture, lyrics or ritual.
 ## The sources
 Any source can be either generic or specific. Here's a non-exhaustive list of examples:
 - Magical places: empty.
-- Gemstones: diamond for lightbending, amber for thrillcraft, ruby for firebending, sapphir for frostbending, amethyst for telekinesis, emerald for telepathy, quartz/citrine/opal/etc for any kind of magic.
+- Gemstones: diamond, amber, ruby, sapphir, amethyst, emerald, quartz, citrine, opal, etc.
 - Magical beasts: these creatures can cast spells too (?).
 
 ## Bindwood
