@@ -1,6 +1,6 @@
 # Frame of magic
 
-Magic in Kestal is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds. The praeter can also alter the forces, the light, the electricity, the temperature and other properties in the surrounding area of the caster.
+Magic in Kestal is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds. The praeter can also alter the forces, the light, the electricity, the temperature and other properties in the area surrounding the caster.
 
 It does not have the goal or the pretention to master all the physical properties, but it is based on the idea to work with them. That brings a mix of the real physical laws and the immaginary dimension praeter that allows to shape them.
 
