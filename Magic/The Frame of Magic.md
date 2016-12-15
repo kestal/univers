@@ -1,7 +1,5 @@
 # Frame of magic
 
-The great variety of spells that can be casted can be divided schools of magic.
-
 Magic in Kestal is the way of shaping to world. It follows first the law of conservation of mass: "nothing is lost, nothing is created, everything is transformed". So magic basically can't create or erase matter.
 
 Instead, it uses simplified versions of the physical properties of the world to shape it. However, the praeter brings also a abstract concept that allows telepathy, which does not rely on any physical property.
