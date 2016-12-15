@@ -16,7 +16,7 @@ This treaty was mainly written by the wizard Brynjar. He's not a member of the N
 
 > Years later, he was a powerful wizard and showed a great determination to free himself from the Southeners. He started a war  and first attacked guards of small villages. Therewith, his fame grew and he brought together many warriors. Thanks to his amazing powers, the Southeners lost many battles and eventually decided the war wasn't worth it and fell back, abandoning their holds. Arkas self-proclaimed himself King.
 
-> Afterwards, some other people among the Nendal's folk reached the level to ressurect. We personally call them archmages.
+> Afterwards, some other people among the Nendal's folk reached the level to ressurect. We personally call them archmages since they can't perform such magic without being able to directly enter the praeter.
 
 > Actually, Arkas and the others archmages of Nendal still reign over their people. Arkas is even called there the _King of Gods_.
 
