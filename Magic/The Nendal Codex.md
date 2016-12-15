@@ -6,7 +6,7 @@ _People of Nendal is a temporary name. They could look like Azetec tribe living 
 As they see the praeter as the home of their gods, magic and religion are deeply bound in their beliefs. The Codex somehow acts like a Bible for them.
 
 ## Treaty on Magic - Volume I
-This treaty was mainly written by the wizard Brynjar. He's not a member of the Nendal's folk. Some parts of it have been integrated to the Nendal Codex. Here are some excepts.
+This treaty was mainly written by the wizard Brynjar. He's not a member of the Nendal's folk. Some parts of it have been integrated to the Nendal Codex. Here are some excerpts.
 
 > The people of Nendal were at the time ruled by the Southeners. It all begon with the birth of Arkas, whose father died fighting the oppressors. When his mother died, Arkas was fourteen. He was described as lunatic, troubled, and spent a lot of time alone into the wild. He must have found a place of magic and began there to train himself. He came back after a while and said he would watch over his people, free them from the tyranny. But these words came to the Southeners and his affinities with magic weren't enough to protect him. They punished him by snatching his eyes. That broke him and he retired for the rest of his life. Nobody saw him again.
 
