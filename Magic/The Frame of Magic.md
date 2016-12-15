@@ -1,6 +1,6 @@
 # Frame of magic
 
-Magic in Kestal is the way of shaping to world. It follows first the law of conservation of mass: "nothing is lost, nothing is created, everything is transformed". So magic basically can't create or erase matter.
+Magic in Kestal is the way of shaping to world.
 
 Instead, it uses simplified versions of the physical properties of the world to shape it. However, the praeter brings also a abstract concept that allows telepathy, which does not rely on any physical property.
 
@@ -8,13 +8,13 @@ It does not have the goal or the pretention to master all the physical propertie
 
 _It makes the magic quite complicated. But I think it forces the writers to use magic as a complex and interesting tool, and not as an easy way of providing a show and/or as an easy way out of problems._
 
-## The frames
-
 The praeter is an instantaneous way of communication with other people and also allows to manipulate the minds.
 
 The praeter can also alter the forces, the light, the electricity and the temperature in the surrounding area.
 
 ## Restrictions
+Magic basically can't create or erase matter, thus it follows the law of conservation of mass ("nothing is lost, nothing is created, everything is transformed").
+
 You can't definitely turn off a source of light by shaping the light directly. You will need to shape the forces or the temperature. A powerful light can start burning.
 
 The electricity you shape still flow preferentially through electrical conductors.
