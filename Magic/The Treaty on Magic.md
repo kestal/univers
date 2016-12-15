@@ -8,5 +8,7 @@ The _Treaty on Magic_ is a series of books about magic divided in multiple volum
 
 > Since he reaches the status of novice, the real training begins. The shaping of the elements is first disorganized and exhausting. A long practice within a magical place is required to master it. Some sources of power are also more specifics to some kind of magic. These are like bridges opening only few doors to the praeter. This way, it is common for a novice to travel from places to places to master the differents elements. [...]
 
+We use to call someone a wizard, if he can master at least a kind of magic. [...]
+
 > There is a small group of people we call _Archmages_. They have accumulated so much experience in the art of magic that they can enter the praeter in every single places of the world, without using any source of power.
 I think there is no defined way to become an archmage. For example one went to hermitage while another practiced with gemstones. Anyway the work to achieve this level of mastery is huge and is not made for everyone. Maybe the archmages are also simply more talented than others for magic.
