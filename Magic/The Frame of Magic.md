@@ -1,4 +1,4 @@
-# Schools of magic
+# Frame of magic
 
 The great variety of spells that can be casted can be divided schools of magic.
 
