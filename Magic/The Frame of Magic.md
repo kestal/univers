@@ -10,8 +10,8 @@ Magic basically can't create or erase matter, thus it follows the law of conserv
 A powerful heat will either start tu burn (preferentially on combustible matter) or either change the state of matter (getting liquid or gaseous). A well calculated cold can provoke snowing. A powerful cold will either extinguish a fire or either change the state of matter (getting liquid or solid).
 
 ## Preferential sources
-There are two types of sources of power: generic or specific. Generic sources allow the caster to perform any kind of magic, while specific sources allow the caster to perform only in a specific school. The specifics sources of power can be seen as bridges that only open certain doors to the praeter.
+There are two types of sources of power: generic or specific. Generic sources allow the caster to perform any kind of magic, while specific sources allow the caster to perform only specific spells. The specifics sources of power can be seen as bridges that only open certain doors to the praeter.
 
 Eventually, the caster can perform any kind of magic when using no source of power. It's exactly like if he used a generic source of power.
 
-Lets imagine casting a fireball with this approach. First you would need some fuel, lets take a little wood stick. Then you will have to use the firebending (or lightbending) to set it on fire and eventually the telekinesis to throw it.
+Lets imagine casting a fireball with this approach. First you would need some combustible matter, lets take a little wood stick. Then you will have to use the to set it on fire by shaping the _temperature_ and eventually shaping the _forces_ to throw it.
