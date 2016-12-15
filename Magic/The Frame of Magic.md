@@ -16,4 +16,5 @@ There are two types of sources of power: generic or specific. Generic sources al
 
 Eventually, the caster can perform any kind of magic when using no source of power. It's exactly like if he used a generic source of power.
 
+## The fireball case
 Lets imagine casting a fireball with this approach. First you would need some combustible matter, lets take a little wood stick. Then you will have to shaping its _temperature_ to set it on fire and eventually shape the _forces_ to throw it.
