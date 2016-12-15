@@ -8,49 +8,20 @@ It does not have the goal or the pretention to master all the physical propertie
 
 _It makes the magic quite complicated. But I think it forces the writers to use magic as a complex and interesting tool, and not as an easy way of providing a show and/or as an easy way out of problems._
 
-## The common schools
+## The frames
 
-### Telepathy
-The Praeter is an instantaneous way of communication with other people.
+The praeter is an instantaneous way of communication with other people and also allows to manipulate the minds.
 
-When mastered, this also allows to manipulate the minds.
+The praeter can also alter the forces, the light, the electricity and the temperature in the surrounding area.
 
-### Telekinesis
-The way of altering the forces in the surrounding area.
+## Restrictions
+You can't definitely turn off a source of light by shaping the light directly. You will need to shape the forces or the temperature. A powerful light can start burning.
 
-### Lightbending
-The way of altering the light.
+The electricity you shape still flow preferentially through electrical conductors.
 
-Allows to increase of decrease the brightness in the surrounding area, without however allowing to turn of a source of light.
+A powerful heat will either start tu burn (preferentially on combustible matter) or either change the state of matter (getting liquid or gaseous).
 
-When mastered, this also allows to create such powerful light that it start burning.
-
-### Thrillcraft
-The way of altering electricity.
-
-Allows to create an electrical shock in the surrounding area.
-
-When mastered, this also allows to provoke a lightning.
-
-This type follows the basic rules of electricity, so that is flow preferentially through electrical conductors.
-
-### Firebending
-The way of increasing temperature.
-
-Allows to heat objects in the surrounding area.
-
-When mastered, this also allows to provoke a fire.
-
-This type follows the basic rules of the state of matters, so that some materials are easier to get liquid/gaseous than others.
-
-### Frostbending
-The way of decreasing temperature.
-
-Allows to froze objects in the surrounding area and thus provoke snowing if well calculated.
-
-When mastered, this also allows to turn water into ice.
-
-This type follows the basic rules of the state of matters, so that some materials are easier to get solid/liquid than others.
+A well calculated cold can provoke snowing. A powerful cold will either extinguish a fire or either change the state of matter (getting liquid or solid).
 
 ## Preferential sources
 There are two types of sources of power: generic or specific. Generic sources allow the caster to perform any kind of magic, while specific sources allow the caster to perform only in a specific school. The specifics sources of power can be seen as bridges that only open certain doors to the praeter.
