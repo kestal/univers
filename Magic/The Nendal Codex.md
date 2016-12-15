@@ -16,13 +16,6 @@ This treaty was mainly written by the wizard Brynjar. He's not a member of the N
 
 > Years later, he was a powerful wizard and showed a great determination to free himself from the Southeners. He started a war  and first attacked guards of small villages. Therewith, his fame grew and he brought together many warriors. Thanks to his amazing powers, the Southeners lost many battles and eventually decided the war wasn't worth it and fell back, abandoning their holds. Arkas self-proclaimed himself King.
 
-> Afterwards, some other people among the Nendal's folk reached the level to ressurect. We personally call them archmages since they can't perform such magic without being able to enter the praeter in the direct way, meaning without the help from any source of power.
+> Afterwards, some other people among the Nendal's folk reached the level to ressurect themselves. We personally call them archmages since they can't perform such magic without being able to enter the praeter in the direct way, meaning without the help from any source of power. The people of Nendal actually believe that Arkas and the other archmages are gods that initially live in the praeter. They think that some of them decided to come on earth and, as they are gods, their soul can't die and they can come back as newborn as they please. What is actually funny is that most of their archmages believe they are gods, simply assuming that after many ressurections, they just forget their time in the praeter.
 
-> Actually, Arkas and the others archmages of Nendal still reign over their people. Arkas is even called there the _King of Gods_.
-
-## Gods among men
-We believe that Arkas, King of Gods, and his brothers and sisters live in the praeter. Those of them who decided to come on earth have the power to shape the elements. As they are gods, they can't die and come back as newborns if they wish.
-
-We believe that those who can perform magic in a lesser way are blessed by the gods. We call them monks.
-
-We basically remain free thanks to the gods that live with us. They are revered and most of them are holding important functions in our gouvernment. Arkas is the undisputable King and his powers are absolutes. When he reborns and is still in young age, a council is formed to rule.
+> The Nendal's folk also believe that those who can perform magic in a lesser way than the archmages are blessed by the gods. They call them monks. At the time I'm writing this, this folk basically remains free thanks to their strong archmages. They are therefor revered and most of them are holding important functions in the gouvernment. Arkas is still the undisputable King and is even called _King of Gods_. When he reborns and is still in young age, a council is formed to rule.
