@@ -13,4 +13,4 @@ We believe that Arkas, King of Gods, and his brothers and sisters live in the pr
 
 We believe that those who can perform magic in a lesser way are blessed by the gods. We call them monks.
 
-We basically remain free thanks to the gods that live with us. They are revered and most of them are holding importances functions in our gouvernment. Arkas is the undisputable King and his powers are absolutes. When he reborns and is still in young age, a council is formed to rule.
+We basically remain free thanks to the gods that live with us. They are revered and most of them are holding important functions in our gouvernment. Arkas is the undisputable King and his powers are absolutes. When he reborns and is still in young age, a council is formed to rule.
