@@ -2,9 +2,7 @@
 
 Magic in Kestal is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds. The praeter can also alter the forces, the light, the electricity, the temperature and other properties in the area surrounding the caster.
 
-It does not have the goal or the pretention to master all the physical properties, but it is based on the idea to work with them. That brings a mix of the real physical laws and the immaginary dimension praeter that allows to shape them.
-
-_It makes the magic quite complicated. But I think it forces the writers to use magic as a complex and interesting tool, and not as an easy way of providing a show and/or as an easy way out of problems._
+_It does not have the goal or the pretention to master all the physical properties, but it is based on the idea to work with them. It also makes the magic quite complicated. But I think it forces the writers to use magic as a complex and interesting tool, and not as an easy way of providing a show and/or as an easy way out of problems._
 
 ## Restrictions
 Magic basically can't create or erase matter, thus it follows the law of conservation of mass ("nothing is lost, nothing is created, everything is transformed").
