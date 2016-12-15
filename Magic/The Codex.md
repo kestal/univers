@@ -1,5 +1,9 @@
 #The Codex
-The _Codex_ is a compilation of texts about magic and religion written by the people of Nendal (_temporary name, they could look like Azetec tribe living in jungles or like norse tribes living in some cold and mountainous places_). As they see the praeter as the home of their gods, magic and religion are deeply bound in their beliefs. The Codex somehow acts like a Bible for them.
+The _Codex_ is a compilation of texts about magic and religion written by the people of Nendal.
+
+_People of Nendal is a temporary name. They could look like Azetec tribe living in jungles or like norse tribes living in some cold and mountainous places. In any cases, they wouldn't be the most developped people in the time where Arkas rises._
+
+As they see the praeter as the home of their gods, magic and religion are deeply bound in their beliefs. The Codex somehow acts like a Bible for them.
 
 ## Arkas
 It all begon with the birth of Arkas. We were at the time oppressed by the men from the south and his father died fighting them. When his mother died, he was 14. He was described as lunatic, troubled, and spent a lot of time alone into the wild. We don't know exactly what happened, but when he came back after a while, he said he was here to watch over us, that he would free us from their tyranny. He had some affinities with magic but that wasn't enough to defeat the southeners guards when they came for him. They punished him by snatching his eyes. He retired and was never seen again.
