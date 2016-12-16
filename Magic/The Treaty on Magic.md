@@ -33,4 +33,4 @@ This part was, as the volume I in general, mainly written by the scholar and wiz
 > The Nendal's folk also believe that those who can perform magic in a lesser way than the archmages are blessed by the gods. They call them monks. At the time I'm writing this, this folk basically remains free thanks to their strong archmages. They are therefor revered and most of them are holding important functions in the gouvernment. Arkas is still the undisputable King and is even called _King of Gods_. When he reborns and is still in young age, a council is formed to rule.
 
 ## Volume I: The Highlands' Folk
-> There are also these people living in the Highlands. They are a pacific people and assume that the contact with the praeter is bound to spirituality. They believe those with a high spirituality are gifted with magic to protect the weaks. The wizards there are called _monks_.
+> There are also these people living in the Highlands. They are a pacific people and assume that the contact with the praeter is bound to spirituality. They believe those with a high spirituality are gifted with magic to protect the weaks. The wizards there are called _Monks_.
