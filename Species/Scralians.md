@@ -30,3 +30,6 @@ Here are some examples where bracketed ellipsis represent the symbols: 4 = [1][5
 In the common language they are called the _White creepers_ or the _Night beasts_. However, some of the humans who trade with them call them more respectfully _Scralians_.
 
 Scralian comes from the word _Skralan_ which belongs to their own language. This word is formed of _Skral_, meaning folk, and _Ann_, meaning the moon.
+
+## In the world
+A huge and cold ocean surround their territories north and east. On their western borders, there is the Nendal's folk, often in conflict with them. On the south stand the Wind Tribe. This tribe is their historical trade partner, although we can see some tensions since the formation of the Fragmented Realm.
