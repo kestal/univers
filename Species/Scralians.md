@@ -17,7 +17,7 @@ Although they are omnivore, they mostly rely on meat due to the difficulty to fa
 
 They avail the long nights of winter to roam the great plains and hunt the game. They salt and dry most of it for the summer. Therefore salt is essential to their economy. Although they got some salt mines, they trade with men to get their sufficient quantity, selling them metals and products of manufacture.
 
-Along their nyctalope condition, they naturally developed a moon calendar. They got their own money made of bronze and silver, although some of them share a common money with their human neighbors.
+Along their nyctalope condition, they naturally developed a lunar calendar. The lunar year is composed of 34 lunar month, each representing one god. The lunar month begins with the new moon. They got their own money made of bronze and silver, although some of them share a common money with their human neighbors.
 
 ## Mathematics
 They developed a quinary additive system. Symbols represent the following numbers: 1, 2, 3, 5, 10, 25, 50, 125, 250 et 625. The four first symbols are unique, while the others follow a constructive scheme.
