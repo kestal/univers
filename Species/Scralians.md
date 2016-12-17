@@ -8,7 +8,7 @@ The hind limbs are long, mostly because of the very elongated tarsus bones of th
 Their hands include five fingers of elongated shape that have nails. The third finger have about the same size than the upper arm. They got a fine, soft and velvety fur, generally whitish colored.
 
 ## Home and climate
-They live either in temperate regions with vast forests and mountains or either in a continental cliate, arid and colder. Both regions have cold and snowy winters. Situated in the upper part of the artic circle, the daylight varies extremely between the seasons.
+They live either in temperate regions with vast forests and mountains or either in a continental cliate, arid and colder. Both regions have cold and snowy winters. Situated in the upper part of the arctic circle, the daylight varies extremely between the seasons.
 
 The typical house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The nomads use tents in winter and return to the mountain villages during summer.
 
