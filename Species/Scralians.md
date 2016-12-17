@@ -10,7 +10,7 @@ Their hands include five fingers of elongated shape that have nails. The third f
 ## Home and climate
 They live either in temperate regions with vast forests and mountains or either in a continental cliate, arid and colder. Both regions have cold and snowy winters. Situated near the arctic circle, the daylight varies extremely between the seasons.
 
-The typical house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The nomads use tents in winter and return to the mountain villages during summer.
+The typical house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The hunters and traders use tents in winter and return to the mountain villages during summer.
 
 ## Behavior and culture
 Although they are omnivore, they mostly rely on meat due to the difficulty to farm. Their photophibia forces them to stay in the mountains during the long days of summer, where they expoit the mines and practice all kind of crafting.
