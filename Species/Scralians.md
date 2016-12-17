@@ -12,6 +12,13 @@ They live either in temperate regions with vast forests and mountains or either 
 
 The typical house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The nomads use tents in winter and return to the mountain villages during summer.
 
+## Behavior and culture
+Although they are omnivore, they mostly rely on meat due to the difficulty to farm. Their photophibia forces them to stay in the mountains during the long days of summer, where they expoit the mines and practice all kind of crafting.
+
+They avail the long nights of winter to roam the great plains and hunt the game. They salt and dry most of it for the summer. Therefore salt is essential to their economy. Although they got some salt mines, they trade with men to get their sufficient quantity, selling them metals and products of manufacture.
+
+Along their nyctalope condition, they naturally developed a moon calendar. They got their own money made of bronze and silver, although some of them share a common money with their human neighbors.
+
 ## Denominations and etymology
 In the common language they are called the _White creepers_ or the _Night beasts_. However, some of the humans who trade with them call them more respectfully _Scralians_.
 
