@@ -3,7 +3,7 @@
 ## Morphology
 Nyctalope species with big and orange eyes. These are very efficient at night but suffer a small photophobia. Their hearing and smell are both superiors to ours. Like us, they got four members composed of five fingers each.
 
-The hind limbs are long, mostly because of the very elongated tarsus bones of the feets. The head and the body varies between 40 and 50 cm in length, but the hind limbs are about twice as big (foots included). They also got a 30 to 35 cm long tapered tail.
+The hind limbs are long, mostly because of the very elongated tarsus bones of the feets. The head and the body varies between 40 and 50 cm in total length, but the hind limbs are about twice as big (foots included). They also got a 30 to 35 cm long tapered tail.
 
 Their hands include five fingers of elongated shape that have nails. The third finger have about the same size than the upper arm. They got a fine, soft and velvety fur, generally whitish colored.
 
