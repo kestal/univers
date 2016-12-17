@@ -19,6 +19,13 @@ They avail the long nights of winter to roam the great plains and hunt the game.
 
 Along their nyctalope condition, they naturally developed a moon calendar. They got their own money made of bronze and silver, although some of them share a common money with their human neighbors.
 
+## Mathematics
+They developed a quinary additive system. Symbols represent the following numbers: 1, 2, 3, 5, 10, 25, 50, 125, 250 et 625. The four first symbols are unique, while the others follow a constructive scheme.
+
+The 25, 125 and 625 symbols correspond to a 5 symbol mixed with eigher a 1, 2 or 3 symbol. The results are 5*5¹, 5*5² and 5*5³. With the same process, the 10, 50 and 250 symbols correspond to a 2 symbol mixed with eigher a 1, 2 or 3 symbol. The results are this time 2*5¹, 2*5² and 2*5³.
+
+Here are some examples using the [...] to represent symbols: 6 = [5][1] , 8 = [2][10] , 16 = [10][5][1] , 28 = [25][3] , 1’749 = [625][625][125][1][625]. The rules are: when a lower symbol is added to the right, it's additioned, while when it's added to the left, it's substracted to its superior following. Note also that the symbol representing 3 is only used for its own number.
+
 ## Denominations and etymology
 In the common language they are called the _White creepers_ or the _Night beasts_. However, some of the humans who trade with them call them more respectfully _Scralians_.
 
