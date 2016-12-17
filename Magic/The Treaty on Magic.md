@@ -28,4 +28,4 @@ This part was, as the volume I in general, mainly written by the scholar and wiz
 ## Volume I: The Highlands' Folk
 > There is also this pacific folk living in the Highlands. They assume that the contact with the praeter represent a way to their God. They actually believe that the spiritual awakening leads to the praeter, and that those who reached it are gracefully gifted with magic. Their beliefs mention that this gift comes with the mission to protect the weaks. Thus the wizards there are called _Monks_ and assume the function of divine guardians blessed by God to watch over the world.
 
-> Unlike our wizards, who mostly act seperatly, their monks have built temples in the surrounding area of strong magical places and live there, secluded in hierarchized communities. We actually don't know their position about the practice of ressurection.
+> Unlike our wizards, who mostly act seperatly, their monks have built temples in the surrounding area of strong magical places and live there, secluded in hierarchized communities. We actually don't know their position concerning the practice of ressurection.
