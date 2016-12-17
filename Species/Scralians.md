@@ -15,7 +15,7 @@ The typical house is build in the rock. It extends sometimes in tunnels which pe
 ## Behavior and culture
 Although they are omnivore, they mostly rely on meat due to the difficulty to farm. Their photophibia forces them to stay in the mountains during the long days of summer, where they expoit the mines and practice all kind of crafting.
 
-They avail the long nights of winter to roam the great plains and hunt the game. They salt and dry most of it for the summer. Therefore salt is essential to their economy. Although they got some salt mines, they trade with men to get their sufficient quantity, selling them metals and products of manufacture.
+They avail the long nights of winter to roam the great plains and hunt the game. They salt and dry most of it to gather reserves for the summer. Therefore salt is essential for their economy. Although they got some salt mines, they trade with men to get their sufficient quantity, selling them metals and products of manufacture.
 
 Along their nyctalope condition, they naturally developed a lunar calendar. The lunar year is composed of 34 lunar month, each representing one god. The lunar month begins with the new moon. They got their own money made of bronze and silver, although some of them share a common money with their human neighbors.
 
