@@ -6,7 +6,7 @@ From a distance, an elf could be mistaken for a human; they often share the svel
 The tint of their skin is dependent on their specific milieu, varying from a light brown-green to almost white.
 Some males have been seen to have antlers, up to the size of an arm.
 
-## Geographic Distribution
+## Geographic distribution
 The elvish population is rather evenly distributed across all continents and lands.
 They prefer hardly accessible places and seem to thrive when left alone.
 
