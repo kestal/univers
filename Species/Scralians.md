@@ -8,7 +8,7 @@ The hind limbs are long, mostly because of the very elongated tarsus bones of th
 Their hands include five fingers (with nails) of elongated shape, with the third about the same size than the the arm (arm doesn't include the forearm). They got a fine, soft and velvety fur, generally whitish colored.
 
 ## Home
-The typical sedentary house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The nomads use tents in winter and return to the mountain villages during summer.
+The typical house is build in the rock. It extends sometimes in tunnels which perforate the mountain and form vast networks. The nomads use tents in winter and return to the mountain villages during summer.
 
 
 ## Denominations and etymology
