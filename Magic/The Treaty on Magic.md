@@ -9,7 +9,7 @@ The _Treaty on Magic_ is a series of books about magic divided in multiple volum
 > We use to call someone a wizard, if he can master one kind of magic at least. Most wizard specialize in only one kind of magic, as it requires already a lot of work. [...] There is a small group of talented wizards we call _Archmages_. They have accumulated so much experience in the art of magic that they can enter the praeter in every single places of the world, without using any source of power. [...] I think there is no defined way to become an archmage. For example one went to hermitage while another practiced with gemstones. Anyway, the amonth of work to achieve this level of mastery is huge and isn't accessible for everyone.
 
 ## Volume I: The Nendal's Folk
-This part is about a people living in the Nendal. Its subjects are mainly their history, religion, vision of the magic and political system. As they see the praeter as the home of their gods, magic and religion are deeply bound in their beliefs.
+This part is about a people living in the Nendal. It give a brief overviews of their history, religion, vision of the magic and political system. The major feature covers the reason why magic and religion are so deeply bound within their society.
 
 This part was, as the volume I in general, mainly written by the scholar and wizard Brynjar. Note that he's not a member of the Nendal's folk and that most of the events he recounts happened decays before him.
 
