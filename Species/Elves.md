@@ -11,7 +11,7 @@ The elvish population is rather evenly distributed across all continents and lan
 They prefer hardly accessible places and seem to thrive when left alone.
 
 ## Society, magic and sickness
-Elves have a relatively strong [magical](/Magic/Magic.md) footprint; they can easily enter the praeter without any source of power. In fact, they have such a natural strong bond with it that they become themselves sources of power.
+Elves have a relatively strong [magical](/Magic/) footprint; they can easily enter the praeter without any source of power. In fact, they have such a natural strong bond with it that they become themselves sources of power.
 
 Elves are influenced by the number and proximity of their pairs. The closer they are to each other, the stronger their bond with the praeter becomes, increasing their magical affinity. Unfortunately, this proximity also awakens their feral instinct and weakens their intellect, bringing the little culture and society they had into something more savage.
 
