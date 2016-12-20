@@ -4,7 +4,7 @@ Scralians are more a human folk than a species on its own, but their anatomical 
 While some live among the "common" humans, the greater part lives in secluded communities.
 
 ## Anatomy
-The Scralians are basically humans, with two differences though. First their skin and their hairs are entirely whites, while their eyes have an almost red iris. Secondly, they have a different vision: a bad perception of colors, a sensitivity to light and inversely a good visual acuity at night. 
+The Scralians are basically humans, with two differences though. First their skin and their hairs are entirely whites, while their eyes have an almost red iris. Secondly, they have a different vision: a bad perception of colors, a minor photophobia and a good visual acuity at night. 
 
 ## Home and climate
 They live either in temperate regions with vast forests and mountains or either in a continental cliate, arid and colder. Both regions have cold and snowy winters. There, the daylight varies extremely between the seasons.
