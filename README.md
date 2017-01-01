@@ -28,6 +28,7 @@ Also, **forks are encouraged**. It would be complicated to have anybody able to 
 * [SCP Wiki](http://www.scp-wiki.net/)
 * [Dawn of Victory](http://www.dawnofvictory2289.com/#dawn-of-victory)
 * [Eternity RPC](http://board.eternityrpc.com/index.php)
+* [Create this world](https://www.reddit.com/r/createthisworld/)
 
 # The map
 Just to have something to visualize. It's badly done and useless..
