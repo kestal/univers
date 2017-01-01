@@ -1,17 +1,17 @@
-The dwarves are a humanoïd species livin on [Continent I](/Geography/Continent I.md), mainly underground.
+The dwarves are a humanoïd species living on [Continent I](/Geography/Continent I.md), mainly underground.
 
 
 They are smaller and bulkier than humans.
 They have a practical and analytic way of thinking, which makes them known for their philosophs, engineers and architects.
 They are seen as friendly and outgoing.
 
-They live in realms that don't work with borders but with cultural similarities.
-Every eight years dwarves from all around the world elect a council of wise, that will direct them throughout the following octennial.
+Dwarves live in realms that don't work with physical borders but with cultural similarities.
+Every eight years dwarves from all around the world elects the  [Council of the Wise](), that will direct them throughout the following octennial.
 
 ## Life Time
 
 Dwarves live longer than humans.
-Usually up to 220 years, but there are stories about dwarfs that lived more than 400 years.
+Usually up to 220 years, but stories mention lifetime surpassing 400 years.
 At 40, dwarfs are considered as adults, and at 160 they are considered wise. 
 
 ## Society
@@ -20,7 +20,7 @@ The dwarf society is somewhat difficult for humans to understand.
 They have cultural realms, wich means that two cities, even apart from thousands of kilometers, could be in one same realm, yet being surrounded by other cities from other realms.
 Every realm is ruled by a leading party, the political systems vary from one to another, but monarchy is the most common form.
 
-The [wise council](/Organization/Wise Council.md), elected every eight years, is there to have a bridge between each dwarf realm.
+The [Wise Council](/Organization/Wise Council.md), elected every eight years, is there to have a bridge between each dwarf realm.
 Its purpose is to give to the dwarves an overview of the general situation of the world, spiritually leading them.
 They also have a really strong political power over the realms. 
 Some mad dwarf kings have already been thrown down by the council. 
@@ -64,7 +64,7 @@ Often associated with age, being wise is one of the highest compliment a dwarf c
 Theologically, being wise means that the gods have gifted the individual with understanding of the world, and the knowing of the ideal direction for it.
 
 
-### Food
+## Food
 Indoor culture of mushrooms makes a great part of dwarf food production and consumption.
 
 
@@ -72,6 +72,11 @@ Indoor culture of mushrooms makes a great part of dwarf food production and cons
 
 Due to the relative stability and uniformity of dwarf culture, many of their constructs have been used by humans. 
 Two important examples of those are justice and currency.
+
+## Magic
+
+Dwarves aren't magical being, but they practice magic, unconciously, by their heavy and complex use of rituals.
+
 
 
 
