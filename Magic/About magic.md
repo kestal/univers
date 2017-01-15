@@ -36,9 +36,6 @@ Performing magic is exhausting for the caster, as draining energy from the praet
 
 Casting does not require any gesture, lyrics or ritual. Thus some gesture can make a magical stream flow and perform magic.
 
-## The sources of power
-All the sources of powers allow the caster to perform any kind of magic. There are two things to mention though: first each different spells need exercice to master, and secondly each spells requires a specific environment to be performed.
-
 ## Abjuration
 Abjuration is the alteration or removal of magic. This ability also allows uninitiated to defend themselves against direct magical aggression, based on their strengh of caracter.
 
@@ -46,7 +43,7 @@ Abjuration is the alteration or removal of magic. This ability also allows unini
 
 Magic is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds.
 
-The praeter also allows to alter the energy in the area surrounding the caster in the form of force, light, electricity or temperature. Note that each spells need exercice to by mastered.
+The praeter also allows to alter the energy in the area surrounding the caster in the form of force, light, electricity or temperature. Even if all the sources of powers allow to perform any spells, there are two things to mention: first each different spells need exercice to master, and secondly each spells requires a specific environment to be performed.
 
 ## Fundamentals
 The following rules are all based on basic physic proprieties and they are indeed really obvious, but it is necessary to mention them since the frame of spells need to be defined.
