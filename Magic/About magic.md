@@ -56,4 +56,4 @@ Magic basically can't create or erase matter, thus it follows the principle that
 A powerful temperature shaping could start a fire (preferentially on combustible matters) or extinguish it, but in general it will change the state of matter. Note also that a well calculated temperature shaping could provoke snowing, for example.
 
 ## The fireball case
-Lets imagine casting a fireball with this approach. You will basically need some combustible matter, like a little wood stick, to set it on fire and eventually throwing it.
+Lets imagine casting a fireball with this approach. You will basically need some combustible matter, like a little wood stick, to set it on fire and eventually throw it.
