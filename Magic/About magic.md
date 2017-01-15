@@ -43,7 +43,7 @@ Abjuration is the alteration or removal of magic. This ability also allows unini
 
 Magic is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds.
 
-The praeter also allows to alter the energy in the area surrounding the caster in the form of force, light, electricity or temperature. Even if all the sources of powers allow to perform any spells, there are two things to mention: first each different spells need exercice to master, and secondly each spells requires a specific environment to be performed.
+The praeter also allows to alter the energy in the area surrounding the caster in the form of force, light, electricity or temperature. Even if all the sources of powers allow to perform any spells, there are two things to mention: first each different spells need exercice to master, and secondly each spells requires a specific environment to be performed (see bellow).
 
 ## Fundamentals
 The following rules are all based on basic physic proprieties and they are indeed really obvious, but it is necessary to mention them since the frame of spells need to be defined.
