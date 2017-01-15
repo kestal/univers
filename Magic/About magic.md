@@ -37,7 +37,7 @@ Performing magic is exhausting for the caster, as draining energy from the praet
 Casting does not require any gesture, lyrics or ritual. Thus some gesture can make a magical stream flow and perform magic.
 
 ## Abjuration
-Abjuration is the alteration or removal of magic. This ability also allows uninitiated to defend themselves against direct magical aggression, based on their strengh of caracter.
+Abjuration is a term used by some wizard to describe the alteration or removal of magic. This ability also allows uninitiated to defend themselves against direct magical aggression, based on their strengh of caracter.
 
 # 3. Frame of magic
 
