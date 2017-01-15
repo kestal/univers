@@ -37,7 +37,7 @@ Performing magic is exhausting for the caster, as draining energy from the praet
 Casting does not require any gesture, lyrics or ritual. Thus some gesture can make a magical stream flow and perform magic.
 
 ## The sources of power
-All the sources of powers allow the caster to perform any kind of magic. There are two things to mention though: first each kind of spells need specific trainings to master, and secondly each kind of magic requires a specific environment to be performed.
+All the sources of powers allow the caster to perform any kind of magic. There are two things to mention though: first each different spells need exercice to master, and secondly each spells requires a specific environment to be performed.
 
 ## Abjuration
 Abjuration is the alteration or removal of magic. This ability also allows uninitiated to defend themselves against direct magical aggression, based on their strengh of caracter.
@@ -46,7 +46,7 @@ Abjuration is the alteration or removal of magic. This ability also allows unini
 
 Magic is the way of altering the properties of the world using the praeter dimension. The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds.
 
-The praeter also allows to alter forces, light, electricity, temperature and other properties in the area surrounding the caster. Note that each kind of spells need specific trainings to by mastered.
+The praeter also allows to alter the energy in the area surrounding the caster in the form of force, light, electricity or temperature. Note that each spells need exercice to by mastered.
 
 ## Fundamentals
 The following rules are all based on basic physic proprieties and they are indeed really obvious, but it is necessary to mention them since the frame of spells need to be defined.
@@ -56,4 +56,4 @@ Magic basically can't create or erase matter, thus it follows the principle that
 A powerful temperature shaping could start a fire (preferentially on combustible matters) or extinguish it, but in general it will change the state of matter. Note also that a well calculated temperature shaping could provoke snowing, for example.
 
 ## The fireball case
-Lets imagine casting a fireball with this approach. First you would need some combustible matter, lets take a little wood stick. Then you will have to shape its _temperature_ to set it on fire and eventually shape the _forces_ to throw it.
+Lets imagine casting a fireball with this approach. You will basically need some combustible matter, like a little wood stick, to set it on fire and eventually throwing it.
