@@ -44,7 +44,7 @@ In broad strokes, the dwarves believe in some sort of relatively distant pantheo
 The dwarves believe, in an abstract sense, that they live by the god's will and that the current state of affair of the world, and its direction, is the right one.
 They will often mention the gods, call for their benediction, or propose that some object or action is blessed, without necessarily believing that the gods really care for things so mundane.
 
-In the same sense, the political organization in place in each realm is considered to be a religious one as much as a political one, and the [Wise Councill]() is the top of their religious pyramid.
+In the same sense, the political organization in place in each realm is considered to be a religious one as much as a political one, and the [Wise Council]() is the top of their religious pyramid.
 Dwarves believe that the [Wise Council]() is as close to the god's will as can be achieved; not in the sense that its members particularly hear what the gods want, but because if they are elected to such a highly influential position, it must be by the gods' will.
 
 Thus, in everyday life, dwarves will often mention the gods, but not necessarily accord them much more thought than this almost linguistic habit.
