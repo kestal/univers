@@ -1,8 +1,8 @@
-The dwarves are a humanoïd species living on [Continent I](/Geography/Continent I.md), mainly underground.
+The dwarves are a humanoid species living on [Continent I](/Geography/Continent I.md), mainly underground.
 
 
 They are smaller and bulkier than humans.
-They have a practical and analytic way of thinking, which makes them known for their philosophs, engineers and architects.
+They have a practical and analytic way of thinking, which makes them known for their philosophers, engineers and architects.
 They are seen as friendly and outgoing.
 
 Dwarves live in realms that don't work with physical borders but with cultural similarities.
@@ -17,7 +17,7 @@ At 40, dwarfs are considered as adults, and at 160 they are considered wise.
 ## Society
 
 The dwarf society is somewhat difficult for humans to understand.
-They have cultural realms, wich means that two cities, even apart from thousands of kilometers, could be in one same realm, yet being surrounded by other cities from other realms.
+They have cultural realms, which means that two cities, even apart from thousands of kilometers, could be in one same realm, yet being surrounded by other cities from other realms.
 Every realm is ruled by a leading party, the political systems vary from one to another, but monarchy is the most common form.
 
 The [Wise Council](/Organization/Wise Council.md), elected every eight years, is there to have a bridge between each dwarf realm.
@@ -26,9 +26,9 @@ They also have a really strong political power over the realms.
 Some mad dwarf kings have already been thrown down by the council. 
 The council is elected by every single dwarf, and any old enough dwarf could be elected. 
 When the new council is elected, each wise have to choose 8 person to accompany him.
-They then go live togetehr in a "cloister".
+They then go live together in a "cloister".
 Practically, they play an important role on general dwarf politic ; If the whole nation has to make choices, it will turn to them.
-They also help to keep harmnoy between the realms.
+They also help to keep harmony between the realms.
 Technically, they have some kind of full power according to dwarf law.
 They don't use it so much though, their main quest being the harmony and the progress of dwarf kind.
 
@@ -52,12 +52,12 @@ Thus, in everyday life, dwarves will often mention the gods, but not necessarily
 ## Geography
 
 Dwarves live in cities and town, often underground, but sometimes not.
-They favor the vicinity of active and dorming volcanoes.
+They favor the vicinity of active and inactive volcanoes.
 Sometimes great underground roads connect different dwarf places, but other times they just have to go outside.
 Dwarves normally have good communication systems between cities.
 
 
-## Wiseness
+## Wisdom
 
 The quality of being wise plays an important role in dwarve's thinking.
 Often associated with age, being wise is one of the highest compliment a dwarf can receive.
@@ -75,7 +75,7 @@ Two important examples of those are justice and currency.
 
 ## Magic
 
-Dwarves aren't magical being, but they practice magic, unconciously, by their heavy and complex use of rituals.
+Dwarves aren't magical being, but they practice magic, unconsciously, by their heavy and complex use of rituals.
 
 
 
