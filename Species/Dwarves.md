@@ -59,7 +59,7 @@ Dwarves normally have good communication systems between cities.
 
 ## Wisdom
 
-The quality of being wise plays an important role in dwarve's thinking.
+The quality of being wise plays an important role in dwarves' thinking.
 Often associated with age, being wise is one of the highest compliment a dwarf can receive.
 Theologically, being wise means that the gods have gifted the individual with understanding of the world, and the knowing of the ideal direction for it.
 

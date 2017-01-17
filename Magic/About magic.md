@@ -29,7 +29,7 @@ Living sources gets exhausted when used and need time to recover, exactly like t
 However, if pushed to much, they can also faint and even die.
 Nevertheless, they can defend themselves from the caster in a sort of mental duel.
 
-The magical beast feel the praeter in a natural and strong way, while the elves are more uniques.
+The magical beast feel the praeter in a natural and strong way, while the elves are more unique.
 
 # Art of magic
 

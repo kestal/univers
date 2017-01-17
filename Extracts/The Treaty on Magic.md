@@ -1,14 +1,14 @@
 # The Treaty on Magic
 The _Treaty on Magic_ is a series of books about magic divided in multiple volumes.
 There is no unique writer but the first volume was mainly achieved by the wizard Brynjar.
-If he was a wizard, he was first a scholar, collecting as much informations he could about magic and the way people see it in the world.
+If he was a wizard, he was first a scholar, collecting as much information he could about magic and the way people see it in the world.
 
 ## Volume I: Generalities
 > There is no school to learn magic, and there are not many wizards either.
 > I think most of those seeking power aren't patient enough to spend years learning the ways of the praeter.
 > Becoming a wizard is also a lonely path for most, and requires a great discipline too. 
 > [...] 
-> This is an hard exercice to feel the praeter in general.
+> This is an hard exercise to feel the praeter in general.
 > Even in places of power where the task is eased, you will have to be focused and trained to be able to feel it.
 > We call the people who can't or never felt the praeter _uninitiated_. 
 
@@ -93,7 +93,7 @@ Note that he's not a member of the Nendal's folk and that most of the events he 
 > The people are considered inferiors to the witchers and the king.
 > Arkas even adopted the title _King of Gods_. 
 > When he rebirths and is still in young age, a provisional council is formed to rule.
-> The witchers are very heterogenous.
+> The witchers are very heterogeneous.
 > Some of them enjoy their powers and status and don't bother with the religious principles, while others are very involved and very strict about it.
 > Although it seems there are plans to usurp the throne, most of them are loyal to the king.
 > Nevertheless, some of them are just not interested in politics and just focus on other things like magical learning.
@@ -102,7 +102,7 @@ Note that he's not a member of the Nendal's folk and that most of the events he 
 > There is also this pacific folk living in the Highlands.
 > They assume that the contact with the praeter represents a way to their God.
 > They actually believe that the spiritual awakening leads to the praeter, and that those who reached it are gracefully gifted with magic.
-> Their beliefs mention that this gift comes with the mission to protect the weaks.
+> Their beliefs mention that this gift comes with the mission to protect the weak.
 > Thus the wizards there are called _Monks_ and assume the function of divine guardians blessed by God to watch over the world.
 
 > Unlike our wizards, who mostly act separately, their monks have built temples in the surrounding area of strong magical places and live there, secluded in hierarchized communities.
