@@ -39,7 +39,7 @@ In this folklore, the elves have been created by the gods with the goal of takin
 
 In the island's mythology, the world was first only Æther, and  Æther felt alone, and decided to share its existence and created the sea.
 But the water cannot lie on nothing, and thus the earth was created for water to lie on, and its existence with the Sea and Æther. 
-This is how the sea was borne, and the land on which it lies.
+This is how the sea was born, and the land on which it lies.
 
 Life is the fourth main entity of the southern island's pantheon.
 Before Life, the world was still, and nothing changed.
