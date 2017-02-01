@@ -25,7 +25,9 @@ However, sometimes they highly concentrate in areas called magical places.
 These wide (m->km) places tend to be stable for decays at least.
 
 The [elves](/Species/Elves.md) have special affinities with the praeter, which allow them to incorporate magical streams, becoming themselves sources.
-They can get exhausted if used and, if pushed to much, can faint and even die.
+More explicitly, strong wizards can extract these magical streams from them.
+But this process get the elves exhausted.
+If pushed to much, they can faint or even die.
 Finally, although there are magical beasts, they don't act as sources of power.
 
 # Art of magic
