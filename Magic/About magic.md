@@ -35,13 +35,11 @@ To feel the praeter is an hard exercise.
 Even in the vicinity of a source of power, where the task is eased, a important focus and training is required.
 The people who can't or never felt the praeter are commonly called uninitiated.
 
-The first step in order to feel the praeter is to open his spirit, usually near a magical place.
-
-## Feeling a disruption
-When the preater is used to shape the reality, it leaves marks.
-These can be felt even by an unitiated.
+When the preater is used to shape the reality, it leaves marks knowned as disruptions.
+They can be felt even by an unitiated.
 This abiltiy is more like a natural gift, but can be learned or increased with practice.
-The ability the feel the praeter helps a lot for it but isn't necessary at all.
+
+Being able to feel the praeter helps feeling disruptions, but isn't necessary at all. Note that these feelings are independents of our common senses. Thus, disabilities like blindness or deafness don't affect them.
 
 ## Casting spells
 Feel the praeter is an difficult exercise in itself, but using it to cast spells is a huge learning.
