@@ -4,7 +4,7 @@ This world is in contact with the praeter.
 The praeter is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood.
 Those who can feel the praeter have access to a whole variety of unnatural abilities called magic.
 
-But its access is difficult though eased by bridges displayed around the world, in the form of static places or jumpy streams.
+But its access is difficult though eased by bridges displayed around the world in the form of jumpy streams.
 Note that people aren't born with some gift to perform magic.
 So anyone could basically become a wizard.
 
@@ -16,19 +16,17 @@ Adepts of this method are extremely powerful.
 A wizard holding both amazing powers and dreadful hatred could keep his soul alive breifly when striked by death, roaming in the preater bearing a terrible pain.
 Thenforth, he should die or quickly find a newborn's body to take his place.
 
-## Sources of power
-The most common way to feel the praeter is through sources of power.
+## The magical streams
+The most common way to feel the praeter is through magical streams.
 These bridges act as strong bonds to the praeter dimension and allow the casters to enter it easier.
-They can't been seen or touched.
+They can't been seen or touched and are usually jumpy and tiny (cm).
 
-There is absolutely only one type of source: the magical streams.
-Usually they are jumpy and tiny (cm).
-Sometimes, they highly concentrate in areas called magical places.
-These magical places are usually stable for decays and wide (m->km).
+However, sometimes they highly concentrate in areas called magical places.
+These wide (m->km) places tend to be stable for decays at least.
 
-There are magical beasts, but they are not sources of power.
 The [elves](/Species/Elves.md) have special affinities with the praeter, which allow them to incorporate magical streams, becoming themselves sources.
 They can get exhausted if used and, if pushed to much, can faint and even die.
+Finally, although there are magical beasts, they don't act as sources of power.
 
 # Art of magic
 
