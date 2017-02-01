@@ -16,7 +16,7 @@ Adepts of this method are extremely powerful.
 A wizard holding both amazing powers and dreadful hatred could keep his soul alive breifly when striked by death, roaming in the preater bearing a terrible pain.
 Thenforth, he should die or quickly find a newborn's body to take his place.
 
-## The magical streams
+## Magical streams
 The most common way to feel the praeter is through magical streams.
 These bridges act as strong bonds to the praeter dimension and allow the casters to enter it easier.
 They can't been seen or touched and are usually jumpy and tiny (cm).
