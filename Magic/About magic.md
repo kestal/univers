@@ -32,13 +32,10 @@ Finally, although there are magical beasts, they don't act as sources of power.
 
 ## Feeling the praeter
 To feel the praeter is an hard exercise.
-Even in the vicinity of a strong source of power, where the task is eased, a important focus and training is required.
+Even in the vicinity of a source of power, where the task is eased, a important focus and training is required.
 The people who can't or never felt the praeter are commonly called uninitiated.
 
-The first step in order to feel the praeter is to open his spirit near a good source of power.
-Thereby, becoming a wizard is a long learning to feel and get used to the praeter, nothing like book reading.
-
-However, note that some of the mightiest sources of power can weaken the people nearby even if there are uninitiated.
+The first step in order to feel the praeter is to open his spirit, usually near a magical place.
 
 ## Feeling a disruption
 When the preater is used to shape the reality, it leaves marks.
@@ -52,11 +49,12 @@ Performing magic requires a great concentration and can be very exhausting.
 The more the spell shapes the world, the higher the concentration is needed.
 
 Sources of power are bonds that allow to use the preater easier.
-If a novice use a strong source to cast a spell too powerfull for him, he will faint and harm himself badly.
+If a novice try to cast a spell too powerfull for him, he will faint and eventually harm himself badly.
 
 Casting basically does not require any lyrics or ritual.
 However, it requires to lead the magical streams.
 Although it can be done by though, some gesture are also used to catch them and to make them flow as wished.
+Thereby, becoming a wizard is a long learning to feel and use the praeter, nothing like book reading.
 
 # Frame of magic
 
