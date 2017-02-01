@@ -41,7 +41,7 @@ Thereby, becoming a wizard is a long learning to feel and get used to the praete
 However, note that some of the mightiest sources of power can weaken the people nearby even if there are uninitiated.
 
 ## Feeling a disruption
-When the preater is used to shape the reality, is leaves marks.
+When the preater is used to shape the reality, it leaves marks.
 These can be felt even by an unitiated.
 This abiltiy is more like a natural gift, but can be learned or increased with practice.
 The ability the feel the praeter helps a lot for it but isn't necessary at all.
