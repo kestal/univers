@@ -28,8 +28,7 @@ But some of them, more static, are called magical places.
 They are usually wider (m->km) though weaker.
 
 There are magical beasts, but they are not sources of power.
-The [elves](/Species/Elves.md) have special affinities with the praeter.
-They have the ability to incorporate magical streams, becoming themselves sources.
+The [elves](/Species/Elves.md) have special affinities with the praeter, which allow them to incorporate magical streams, becoming themselves sources.
 They can get exhausted if used and, if pushed to much, can faint and even die.
 
 # Art of magic
