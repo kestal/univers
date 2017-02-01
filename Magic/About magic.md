@@ -55,7 +55,8 @@ Sources of power are bonds that allow to use the preater easier.
 If a novice use a strong source to cast a spell too powerfull for him, he will faint and harm himself badly.
 
 Casting basically does not require any lyrics or ritual.
-However, some gesture can make a magical stream flow in a preferential way and grow strong, allowing an eased display of magic.
+However, it requires to lead the magical streams.
+Although it can be done by though, some gesture are also used to make them flow as wished.
 
 # Frame of magic
 
