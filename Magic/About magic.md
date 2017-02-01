@@ -37,7 +37,7 @@ The people who can't or never felt the praeter are commonly called uninitiated.
 
 When the preater is used to shape the reality, it leaves marks knowned as disruptions.
 They can be felt even by an unitiated.
-This abiltiy is more like a natural gift, but can be learned or increased with practice.
+This ability is more like a natural gift, but can be learned or increased with practice.
 
 Being able to feel the praeter helps feeling disruptions, but isn't necessary at all. Note that these feelings are independents of our common senses. Thus, disabilities like blindness or deafness don't affect them.
 
