@@ -1,79 +1,96 @@
 # The Praeter
 
-## The praeter
-The praeter is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood. 
-Its access allows trained casters to perform magic.
-They can either enter the praeter directly or use sources of power displayed around the world.
+This world is in contact with the praeter.
+The praeter is a part, a dimension of the universe, whose mechanics and relation to the physical universe are not well understood.
+Those who can feel the praeter have access to a whole variety of unnatural abilities called magic.
 
-People aren't born with some gift to perform magic.
-Although anyone could enter it with the help of a source of power, the contact with the praeter is very exhausting and will basically make any uninitiated faint.
+But its access is difficult though eased by bridges displayed around the world, in the form of static places or jumpy streams.
+Note that people aren't born with some gift to perform magic.
+So anyone could basically become a wizard.
 
-## The direct way
+## A direct way
 Entering the praeter directly requires years and years of training and a lot of energy.
 Thereby practically nobody can perform magic this way.
 Adepts of this method are extremely powerful.
 
-It is said that some of them could even use the praeter to keep their spirit immortal and even come back in the real world as a newborn.
-They are sometimes perceived as divine or even as gods by certain folks.
+A wizard holding both amazing powers and dreadful hatred could keep his soul alive breifly when striked by death, roaming in the preater bearing a terrible pain.
+Thenforth, he should die or quickly find a newborn's body to take his place.
 
 ## Sources of power
 The most common way to feel the praeter is through sources of power.
-These act as strong bonds to the praeter dimension and allow the casters to enter it easier.
+These bridges act as strong bonds to the praeter dimension and allow the casters to enter it easier.
+They can't been seen or touched.
 
-The only presence of great sources of power can weaken the people nearby and some of the mightiest might even faint any uninitiated.
+There are two types of sources: the inert magical streams and the living sources.
+The streams are very heterogeneous in the size and in the strength of the bond they provide.
+Usually the streams are jumpy, tiny (cm) and quite strong sources.
+But some of them, more static, are called magical places.
+They are usually wider (m->km) though weaker.
 
-Sources of power are very heterogeneous in size and power.
-There are the inert sources of power like magical places and magical streams, and there are the living sources of power like magical beasts and the elves.
-
-Living sources gets exhausted when used and need time to recover, exactly like the caster.
+The living sources of power regroup the magical beasts and the elves.
+These kind of sources gets exhausted when used and need time to recover.
 However, if pushed to much, they can also faint and even die.
-Nevertheless, they can defend themselves from the caster in a sort of mental duel.
-
+Nevertheless, they can defend themselves from the caster.
 The magical beast feel the praeter in a natural and strong way, while the elves are more unique.
 
 # Art of magic
 
-## The learning
-An uninitiated who doesn't open his spirit can't feel the praeter, even near a place of power.
-Therefore, becoming a wizard is a long journey of pilgrimage to places of power to learn to open his spirit to feel and get used to the praeter.
-It's nothing like book reading.
+## Feeling the praeter
+To feel the praeter is an hard exercise.
+Even in the vicinity of a strong source of power, where the task is eased, a important focus and training is required.
+The people who can't or never felt the praeter are commonly called uninitiated.
 
-Once the initiated reaches a certain level, he can enter the praeter properly.
-Then he must remain in these low bonds sources of power to progressively reach the level where he can use the praeter to cast spells.
+The first step in order to feel the praeter is to open his spirit near a good source of power.
+Thereby, becoming a wizard is a long learning to feel and get used to the praeter, nothing like book reading.
 
-The use of strong bonds sources of power requires a way more important training and is reserved for talented wizards.
+However, note that some of the mightiest sources of power can weaken the people nearby even if there are uninitiated.
 
-The strength and the length of a spell are limited by both the caster and, if used, the source of power.
-Performing magic is exhausting for the caster, as draining energy from the praeter requires a great concentration.
-Although it can't injure the caster physically, it still can make them faint in extreme cases.
+## Feeling a disruption
+When the preater is used to shape the reality, is leaves marks.
+These can be felt even by an unitiated.
+This abiltiy is more like a natural gift, but can be learned or increased with practice.
+The ability the feel the praeter helps a lot for it but isn't necessary at all.
 
-Casting does not require any gesture, lyrics or ritual.
-Thus some gesture can make a magical stream flow and perform magic.
+## Casting spells
+Feel the praeter is an difficult exercise in itself, but using it to cast spells is a huge learning.
+Performing magic requires a great concentration and can be very exhausting.
+The more the spell shapes the world, the higher the concentration is needed.
 
-## Abjuration
-Abjuration is a term used by some wizard to describe the alteration or removal of magic.
-This ability also allows uninitiated to defend themselves against direct magical aggression, based on their strength of character.
+Sources of power are bonds that allow to use the preater easier.
+If a novice use a strong source to cast a spell too powerfull for him, he will faint and harm himself badly.
+
+Casting basically does not require any lyrics or ritual.
+However, some gesture can make a magical stream flow in a preferential way and grow strong, allowing an eased display of magic.
 
 # Frame of magic
 
 Magic is the way of altering the properties of the world using the praeter dimension.
-The praeter is first an instantaneous way of communication with other people that also allows to manipulate the minds.
+The practice of magic can be restricted in four ways:
+- Source of power: almost always needed.
+- Caster's ability: a good experience for the casted spell is required in order to perform it effectively.
+- Caster's energy: performing magic is a hard mental exercise, thus the caster must have enough energy in order to be efficient.
+- Environment: some spells ranged in a category called alteration rely mostly on physical proprieties, and therefore need an adequate environment.
 
-The praeter also allows to alter the energy in the area surrounding the caster. 
-Even if all the sources of powers allow to perform any spells, there are two things to mention: first each different spell needs practice to be mastered, and secondly each spell requires a specific environment to be performed (see below).
+Some wizard divided magic into three big categories to sort the huge amount of spells they knew.
+We will use them to present the different way the preater can be used.
 
-## Fundamentals
-The following rules are all based on basic physical proprieties and they are indeed really obvious, but it is necessary to mention them since the frame of spells need to be defined.
+## Alteration
+The praeter allows to alter the energy in the area surrounding the caster.
+These kind of spells heavely rely on basic physical proprieties.
+There are better explained with some examples:
+- Light: the only way of shaping light is by absorbing its energy. So you can’t directly create light. Instead, you can shape the energy of a material to make it produce light.
+- Electricity: the electricity you shape stills flow preferentially through electrical conductors.
+- Temperature: a powerful temperature shaping could start a fire (preferentially on combustible matters) or extinguish it, but in general it will change the state of matter. Note also that a well calculated temperature shaping could provoke snowing, for example.
+- Telekinesis: the shaping of forces allows to perform most abilities belonging to the telekinesis.
 
-Magic basically can't create or erase matter, thus it follows the principle that nothing is lost, nothing is created, everything is transformed.
-The only way of shaping light is by absorbing its energy.
-So you can’t directly create light.
-Instead, you can shape the temperature or the electricity to make a source produce light.
-The electricity you shape stills flow preferentially through electrical conductors.
+## Obspiration
+The praeter is also an instantaneous way of communication with other people that also allows to change the behavior of an human or an animal.
+Obspiration is a term used to describe the mind manipulation.
+Instead of directly communicate with someone, you can make a emotion grow into him or whisper thoughts to him.
+It also works on animals but can't reach the same level since the communication is harder.
 
-A powerful temperature shaping could start a fire (preferentially on combustible matters) or extinguish it, but in general it will change the state of matter.
-Note also that a well calculated temperature shaping could provoke snowing, for example.
-
-## The fireball case
-Lets imagine casting a fireball with this approach.
-You will basically need some combustible matter, like a little wood stick, to set it on fire and eventually throw it.
+## Abnition
+Term used to describe the reduction or removal of magic.
+These sorts of counterspells are used to restrict a caster or to defend against direct magical aggression.
+They aren't really considered as spells and have a special way of learning that rely more on the feeling of disruption.
+This way, an uninitiated can also use these abilities.
