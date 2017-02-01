@@ -48,8 +48,6 @@ Being able to feel the praeter helps feeling disruptions, but isn't necessary at
 Feel the praeter is an difficult exercise in itself, but using it to cast spells is a huge learning.
 Performing magic requires a great concentration and can be very exhausting.
 The more the spell shapes the world, the higher the concentration is needed.
-
-Sources of power are bonds that allow to use the preater easier.
 If a novice try to cast a spell too powerfull for him, he will faint and eventually harm himself badly.
 
 Casting basically does not require any lyrics or ritual.
