@@ -28,7 +28,8 @@ The [elves](/Species/Elves.md) have special affinities with the praeter, which a
 More explicitly, strong wizards can extract these magical streams from them.
 But this process get the elves exhausted.
 If pushed to much, they can faint or even die.
-Finally, although there are magical beasts, they don't act as sources of power.
+
+Finally, there are creatures or monsters that can use magic. However, they don't act as sources of power.
 
 # Art of magic
 
