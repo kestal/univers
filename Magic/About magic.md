@@ -21,17 +21,16 @@ The most common way to feel the praeter is through sources of power.
 These bridges act as strong bonds to the praeter dimension and allow the casters to enter it easier.
 They can't been seen or touched.
 
-There are two types of sources: the inert magical streams and the living sources.
-The streams are very heterogeneous in the size and in the strength of the bond they provide.
+There is absolutely only one type of source: the magical streams.
+They are very heterogeneous in the size and in the strength of the bond they provide.
 Usually the streams are jumpy, tiny (cm) and quite strong sources.
 But some of them, more static, are called magical places.
 They are usually wider (m->km) though weaker.
 
-The living sources of power regroup the magical beasts and the elves.
-These kind of sources gets exhausted when used and need time to recover.
-However, if pushed to much, they can also faint and even die.
-Nevertheless, they can defend themselves from the caster.
-The magical beast feel the praeter in a natural and strong way, while the elves are more unique.
+There are magical beasts, but they are not sources of power.
+The elves have special affinities with the praeter.
+They have the ability to incorporate magical streams, becoming themselves sources.
+They can get exhausted if used and, if pushed to much, can faint and even die.
 
 # Art of magic
 
