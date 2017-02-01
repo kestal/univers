@@ -20,9 +20,9 @@ This volume was mainly written by the scholar and wizard Brynjar.
 
 
 ### The Rackonian Great Purge
-> Rackonia is a northern kingdom surrounded by mountains. The region is poor and not much populated. In 7'328, I traveled to Kilmare, the capital city located in the south. I met there an old friend called Frár. He was a dwarven spellslayer. He had mixed feelings about a sect that merged there during the past months. They condemned magic in all its forms. I took his advice and investigated the following weeks.
+> Rackonia is a northern kingdom surrounded by mountains. The region is poor and not much populated. In 7'328, I traveled to Kilmare, the capital city located in the south. I met there an old friend called Frár. He was a dwarven spellslayer. He had mixed feelings about the new ideas of the local religion. They would apparently forbid magic in all its forms. I took his advice and investigated the following weeks.
 
-> Unfortunately, this sect had more adepts I could imagine. Furthermore, a holy court had been secretly established: the Inquisition. The new institution had also bribed a spellslayer and asked him to train their most devoted adepts, who would be called later the inquisitors.
+> Unfortunately, this was worst I could imagine. A true hatred for magic had developed. Furthermore, a holy court had been secretly established: the Inquisition. The new institution had also bribed a spellslayer and asked him to train their most devoted adepts, who would be called later the inquisitors.
 
 > Then the Great Purge began. Witches, sorcerers, druids, wizards and anyone who supported them were hunted and slayed during a bloody massacre. I managed to escape, but a very few had this chance. The neighboring Kingdoms asked the king to stop this sect, but nothing happened. The sect became the new religion in Rackonia.
 
