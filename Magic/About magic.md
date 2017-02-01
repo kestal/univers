@@ -56,7 +56,7 @@ If a novice use a strong source to cast a spell too powerfull for him, he will f
 
 Casting basically does not require any lyrics or ritual.
 However, it requires to lead the magical streams.
-Although it can be done by though, some gesture are also used to make them flow as wished.
+Although it can be done by though, some gesture are also used to catch them and to make them flow as wished.
 
 # Frame of magic
 
