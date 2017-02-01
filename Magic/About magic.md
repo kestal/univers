@@ -22,10 +22,9 @@ These bridges act as strong bonds to the praeter dimension and allow the casters
 They can't been seen or touched.
 
 There is absolutely only one type of source: the magical streams.
-They are very heterogeneous in the size and in the strength of the bond they provide.
-Usually the streams are jumpy, tiny (cm) and quite strong sources.
-But some of them, more static, are called magical places.
-They are usually wider (m->km) though weaker.
+Usually they are jumpy and tiny (cm).
+Sometimes, they highly concentrate in areas called magical places.
+These magical places are usually stable for decays and wide (m->km).
 
 There are magical beasts, but they are not sources of power.
 The [elves](/Species/Elves.md) have special affinities with the praeter, which allow them to incorporate magical streams, becoming themselves sources.
