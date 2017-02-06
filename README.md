@@ -30,6 +30,7 @@ Also, **forks are encouraged**. It would be complicated to have anybody able to 
 * [Eternity RPC](http://board.eternityrpc.com/index.php)
 * [Create this world](https://www.reddit.com/r/createthisworld/)
 * [Achorion](http://achorion.wikidot.com/)
+* [Pavala and Haki](http://universesandbox.com/forum/index.php/topic,14252.0.html)
 
 # The map
 Just to have something to visualize. It's badly done and useless..
