@@ -1,4 +1,4 @@
-# univers
+# univers (is pretty much dead)
 The goal it to create an imaginary universe/world!
 
 # Start at [Coup of Littlefall](/Events/Coup of Littlefall.md) to get an idea of what has been done so far
