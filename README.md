@@ -32,6 +32,3 @@ Also, **forks are encouraged**. It would be complicated to have anybody able to 
 * [Achorion](http://achorion.wikidot.com/)
 * [Pavala and Haki](http://universesandbox.com/forum/index.php/topic,14252.0.html)
 
-# The map
-Just to have something to visualize. It's badly done and useless..
-![map](/map.svg?raw=true)
